@@ -60,7 +60,15 @@ A summary of must-read papers for Neural Question Generation (NQG)
 
 ### [Encoding Answers](#answer-encoding)
 
+1. **Improving Neural Question Generation Using Answer Separation.** AAAI 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf) [code](https://github.com/yanghoonkim/NQG_ASs2s)
+
+    *Yanghoon Kim, Hwanhee Lee, Joongbo Shin, Kyomin Jung.*
+
 ### [Linguistic Features](#linguistic-features)
+
+1. **Learning to Generate Questions by Learning What not to Generate.** WWW 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf) [code](https://github.com/BangLiu/QG)
+
+    *Bang Liu, Mingjun Zhao, Di Niu, Kunfeng Lai, Yancheng He, Haojie Wei, Yu Xu.*
 
 ### [Question-specific Rewards](#RL-rewards)
 
@@ -71,6 +79,10 @@ A summary of must-read papers for Neural Question Generation (NQG)
 ## [Applications](#applications)
 
 ### [Difficulty Controllable QG](#difficulty-controllable-QG)
+
+1. **Easy-to-Hard: Leveraging Simple Questions for Complex Question Generation.** arxiv 2019. [paper](https://arxiv.org/pdf/1912.02367.pdf)
+
+    *Jie Zhao, Xiang Deng, Huan Sun.*
 
 ### [Conversational QG](#conversational-QG)
 
