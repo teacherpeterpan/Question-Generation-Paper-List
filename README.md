@@ -86,6 +86,22 @@ A summary of must-read papers for Neural Question Generation (NQG)
 
 ### [Conversational QG](#conversational-QG)
 
+1. **Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders.** ACL, 2018. [paper](https://arxiv.org/pdf/1805.04843.pdf) [code](https://github.com/victorywys/Learning2Ask_TypedDecoder) [dataset]( http://coai.cs.tsinghua.edu.cn/hml/dataset/)
+   
+   *Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie*
+
+2. **Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling.** ACL 2019. [paper](https://arxiv.org/pdf/1906.06893.pdf) [code](https://github.com/Evan-Gao/conversational-QG)
+   
+   *Yifan Gao, Piji Li, Irwin King, Michael R. Lyu*
+
+3. **Reinforced Dynamic Reasoning for Conversational Question Generation.** ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1203) [code](https://github.com/ZJULearning/ReDR) [dataset](https://stanfordnlp.github.io/coqa/)
+   
+   *Boyuan Pan, Hao Li, Ziyu Yao, Deng Cai, Huan Sun*
+
+4. **Towards Answer-unaware Conversational Question Generation.** Workshop of ACL 2019. [paper](https://www.aclweb.org/anthology/D19-5809.pdf)
+   
+   *Mao Nakanishi, Tetsunori Kobayashi, Yoshihiko Hayashi*
+
 ### [Asking special questions](#asking-special-questions)
 
 ### [Answer-unaware QG](#answer-unaware-QG)
