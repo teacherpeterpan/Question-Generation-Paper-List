@@ -216,7 +216,17 @@ A summary of must-read papers for Neural Question Generation (NQG)
 
 ### [Visual Question Generation](#visual-question-generation)
 
-## [Evaluation](#evaluation) 
+## [Evaluation](#evaluation)
+
+1. **Evaluating Rewards for Question Generation Models.** NAACL, 2019. [paper](https://arxiv.org/pdf/1902.11049.pdf)
+   
+   *Tom Hosking and Sebastian Riedel.*
 
 ## [Resources](#resources)
+
+1. **ParaQG: A System for Generating Questions and Answers from Paragraphs.** EMNLP Demo, 2019. [paper](https://arxiv.org/pdf/1909.01642.pdf)
+   
+   *Vishwajeet Kumar, Sivaanandh Muneeswaran, Ganesh Ramakrishnan, Yuan-Fang Li.*
+
+
 
