@@ -228,6 +228,10 @@ Endowing the model with the ability to control the difficulty of the generated q
    
    *Yifan Gao, Lidong Bing, Wang Chen, Michael R. Lyu, Irwin King* 
 
+3. **Difficulty-controllable Multi-hop Question Generation From Knowledge Graphs.** ISWC, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)  [code&dataset](https://github.com/liyuanfang/mhqg)
+   
+   *Vishwajeet Kumar, Yuncheng Hua, Ganesh Ramakrishnan, Guilin Qi, Lianli Gao, Yuan-Fang Li*
+
 ### [Conversational QG](#conversational-QG)
 
 Learning to generate a series of coherent questions grounded in a question answering style conversation. 
@@ -333,11 +337,39 @@ This direction investigate how to combine the task of QA and QG by multi-task le
 
 This direction is about generating questions from a knowledge graph. 
 
-1. **Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1247.pdf)
+1. **Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus.** ACL, 2016. [paper](https://arxiv.org/pdf/1603.06807.pdf) [dataset](https://www.agarciaduran.org)
+   
+   *Iulian Vlad Serban, Alberto García-Durán, Çaglar Gülçehre, Sungjin Ahn, Sarath Chandar, Aaron C. Courville, Yoshua Bengio*
+
+2. **Generating Natural Language Question-Answer Pairs from a Knowledge Graph Using a RNN Based Question Generation Model.** ACL, 2017. [paper](https://www.aclweb.org/anthology/E17-1036/)
+   
+   *Mitesh M. Khapra, Dinesh Raghu, Sachindra Joshi, Sathish Reddy*
+
+3. **Knowledge Questions from Knowledge Graphs.** ICTIR, 2017. [paper](https://arxiv.org/pdf/1610.09935.pdf)
+   
+   *Dominic Seyler, Mohamed Yahya, Klaus Berberich.*
+
+4. **Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and Entity Types.** NAACL, 2018. [paper](https://arxiv.org/pdf/1802.06842.pdf) [code](https://github.com/NAACL2018Anonymous/submission)
+   
+   *Hady Elsahar, Christophe Gravier, Frederique Laforest.*
+
+5. **A Neural Question Generation System Based on Knowledge Base** NLPCC, 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-319-99495-6_12)
+   
+   *Hao Wang, Xiaodong Zhang, Houfeng Wang*
+
+6. **Formal Query Generation for Question Answering over Knowledge Bases.** ESWC, 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_46)
+   
+   *Hamid Zafar, Giulio Napolitano, Jens Lehmann*
+
+7. **Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1247.pdf)
    
    *Cao Liu, Kang Liu, Shizhu He, Zaiqing Nie, Jun Zhao*
 
-2. **How Question Generation Can Help Question Answering over Knowledge Base.** NLPCC, 2019. [paper](http://tcci.ccf.org.cn/conference/2019/papers/183.pdf)
+8. **Difficulty-controllable Multi-hop Question Generation From Knowledge Graphs.** ISWC, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)  [code&dataset](https://github.com/liyuanfang/mhqg)
+   
+   *Vishwajeet Kumar, Yuncheng Hua, Ganesh Ramakrishnan, Guilin Qi, Lianli Gao, Yuan-Fang Li*
+
+9.  **How Question Generation Can Help Question Answering over Knowledge Base.** NLPCC, 2019. [paper](http://tcci.ccf.org.cn/conference/2019/papers/183.pdf)
    
    *Sen Hu, Lei Zou, Zhanxing Zhu*
 
@@ -351,9 +383,21 @@ Asking questions based on visual inputs (usually an image).
 
 ## [Evaluation](#evaluation)
 
-This direction investigates how to evaluate the quality of generated questions. 
+This direction investigates the mechanism behind question asking, and how to evaluate the quality of generated questions. 
 
-1. **Evaluating Rewards for Question Generation Models.** NAACL, 2019. [paper](https://arxiv.org/pdf/1902.11049.pdf)
+1. **Question Asking as Program Generation.** NeurIPS, 2017. [paper](https://arxiv.org/pdf/1711.06351.pdf)
+   
+   *Anselm Rothe, Brenden M. Lake, Todd M. Gureckis.*
+
+2. **Towards a Better Metric for Evaluating Question Generation Systems.** EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1429/)
+   
+   *Preksha Nema, Mitesh M. Khapra.*
+
+3. **LearningQ: A Large-Scale Dataset for Educational Question Generation.** ICWSM, 2018. [paper](https://yangjiera.github.io/works/icwsm2018.pdf)
+   
+   *Guanliang Chen, Jie Yang, Claudia Hauff, Geert-Jan Houben.*
+
+4. **Evaluating Rewards for Question Generation Models.** NAACL, 2019. [paper](https://arxiv.org/pdf/1902.11049.pdf)
    
    *Tom Hosking and Sebastian Riedel.*
 
