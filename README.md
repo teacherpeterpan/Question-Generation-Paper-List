@@ -41,6 +41,9 @@ A summary of must-read papers for Neural Question Generation (NQG)
     <td>&emsp;<a href="#QG-from-knowledge-graphs">2.7 QG from knowledge graphs</a></td>
     <td>&ensp;<a href="#visual-question-generation">2.8 Visual Question Generation</a></td>
 </tr> 
+<tr>
+    <td colspan="2">&emsp;<a href="#distractor-generation">2.9 Distractor Generation</a></td>
+</tr>
 <tr><td colspan="2"><a href="#evaluation">3. Evaluation</a></td></tr>
 <tr><td colspan="2"><a href="#resources">4. Resources</a></td></tr>
 </table>
@@ -413,6 +416,20 @@ Asking questions based on visual inputs (usually an image).
 9. **Information Maximizing Visual Question Generation.** CVPR, 2019. [paper](https://arxiv.org/pdf/1903.11207.pdf)
 
    *Ranjay Krishna, Michael Bernstein, Li Fei-Fei*
+
+### [Distractor Generation](#distractor-generation)
+
+1. **Generating Questions and Multiple-Choice Answers using Semantic Analysis of Texts.** COLING, 2016. [paper](https://www.aclweb.org/anthology/C16-1107.pdf)
+
+   *Jun Araki, Dheeraj Rajagopal, Sreecharan Sankaranarayanan, Susan Holm, Yukari Yamakawa, Teruko Mitamura*
+
+2. **Distractor Generation for Multiple Choice Questions Using Learning to Rank.** NAACL Workshop, 2018. [paper](https://www.aclweb.org/anthology/W18-0533.pdf) [code](https://github.com/harrylclc/LTR-DG)
+
+   *Chen Liang, Xiao Yang, Neisarg Dave, Drew Wham, Bart Pursel, C. Lee Giles*
+
+3. **Generating Distractors for Reading Comprehension Questions from Real Examinations.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02768.pdf)
+
+   *Yifan Gao, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu*
 
 ## [Evaluation](#evaluation)
 
