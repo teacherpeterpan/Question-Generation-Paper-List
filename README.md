@@ -308,7 +308,7 @@ Learning to generate questions that cannot be answered by the input passage.
    
    *Haichao Zhu, Li Dong, Furu Wei, Wenhui Wang, Bing Qin, Ting Liu*
 
-### [Combining QA & QG](#Combining-QA-and-QG)
+### [Combining QA and QG](#Combining-QA-and-QG)
 
 This direction investigate how to combine the task of QA and QG by multi-task learning or joint training. 
 
