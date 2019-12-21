@@ -54,6 +54,8 @@ A summary of must-read papers for Neural Question Generation (NQG)
 
 ### [Basic Seq2Seq Models](#basic-models)
 
+Basic Seq2Seq models with attention to generate questions. 
+
 1. **Learning to ask: Neural question generation for reading comprehension.** ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123.pdf)
 
     *Xinya Du, Junru Shao, Claire Cardie.*
@@ -62,80 +64,131 @@ A summary of must-read papers for Neural Question Generation (NQG)
 
     *Qingyu Zhou, Nan Yang, Furu Wei, Chuanqi Tan, Hangbo Bao, Ming Zhou.*
 
+3. **Machine comprehension by text-to-text neural question generation.** Rep4NLP@ACL, 2017. [paper](https://arxiv.org/pdf/1705.02012.pdf)
+   
+   *Xingdi Yuan, Tong Wang, Çaglar Gülçehre, Alessandro Sordoni, Philip Bachman, Saizheng Zhang, Sandeep Subramanian, Adam Trischler*
+
 ### [Encoding Answers](#answer-encoding)
 
-1. **Improving Neural Question Generation Using Answer Separation.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf) [code](https://github.com/yanghoonkim/NQG_ASs2s)
+Applying various techniques to encode the answer information thus allowing for better quality answer-focused questions. 
+
+1. **Answer-focused and Position-aware Neural Question Generation.** EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1427)
+   
+   *Xingwu Sun, Jing Liu, Yajuan Lyu, Wei He, Yanjun Ma, Shi Wang*
+
+2. **Improving Neural Question Generation Using Answer Separation.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf) [code](https://github.com/yanghoonkim/NQG_ASs2s)
 
     *Yanghoon Kim, Hwanhee Lee, Joongbo Shin, Kyomin Jung.*
 
-2. **Improving Question Generation with Sentence-level Semantic Matching and Answer Position Inferring.** AAAI, 2020. [paper](https://arxiv.org/pdf/1912.00879.pdf)
+3. **Improving Question Generation with Sentence-level Semantic Matching and Answer Position Inferring.** AAAI, 2020. [paper](https://arxiv.org/pdf/1912.00879.pdf)
    
    *Xiyao Ma, Qile Zhu, Yanlin Zhou, Xiaolin Li, Dapeng Wu*
 
 ### [Linguistic Features](#linguistic-features)
 
-1. **Learning to Generate Questions by Learning What not to Generate.** WWW, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf) [code](https://github.com/BangLiu/QG)
+Improve QG by incorporating various linguistic features into the QG process. 
+
+1. **Neural Generation of Diverse Questions using Answer Focus, Contextual and Linguistic Features.** INLG, 2018. [paper](https://arxiv.org/pdf/1809.02637.pdf)
+
+    *Vrindavan Harrison, Marilyn Walker*
+
+2. **Automatic Question Generation using Relative Pronouns and Adverbs.** ACL, 2018. [paper](https://www.aclweb.org/anthology/P18-3022)
+   
+   *Payal Khullar, Konigari Rachna, Mukul Hase, Manish Shrivastava* 
+
+3. **Learning to Generate Questions by Learning What not to Generate.** WWW, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf) [code](https://github.com/BangLiu/QG)
 
     *Bang Liu, Mingjun Zhao, Di Niu, Kunfeng Lai, Yancheng He, Haojie Wei, Yu Xu.*
 
-2. **Improving Neural Question Generation using World Knowledge.** arXiv, 2019. [paper](https://arxiv.org/pdf/1909.03716.pdf)
+4. **Improving Neural Question Generation using World Knowledge.** arXiv, 2019. [paper](https://arxiv.org/pdf/1909.03716.pdf)
    
    *Deepak Gupta, Kaheer Suleman, Mahmoud Adada, Andrew McNamara, Justin Harris*
 
 ### [Question-specific Rewards](#RL-rewards)
 
-1. **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation** arxiv, 2019. [paper](https://arxiv.org/pdf/1908.04942.pdf)
+Improving the training via combining supervised and reinforcement learning to maximize question-specific rewards
+
+1. **Teaching Machines to Ask Questions.** IJCAI, 2018. [paper](https://www.ijcai.org/proceedings/2018/0632.pdf)
+   
+   *Kaichun Yao, Libo Zhang, Tiejian Luo, Lili Tao, Yanjun Wu*
+
+2. **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation** arxiv, 2019. [paper](https://arxiv.org/pdf/1908.04942.pdf)
    
    *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
 
-2. **Natural Question Generation with Reinforcement Learning Based Graph-to-Sequence Model** NeurIPS Workshop, 2019. [paper](https://arxiv.org/pdf/1910.08832.pdf)
+3. **Natural Question Generation with Reinforcement Learning Based Graph-to-Sequence Model** NeurIPS Workshop, 2019. [paper](https://arxiv.org/pdf/1910.08832.pdf)
    
    *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
 
-3. **Putting the Horse Before the Cart:A Generator-Evaluator Framework for Question Generation from Text** CoNLL, 2019. [paper](https://arxiv.org/pdf/1808.04961.pdf)
+4. **Putting the Horse Before the Cart:A Generator-Evaluator Framework for Question Generation from Text** CoNLL, 2019. [paper](https://arxiv.org/pdf/1808.04961.pdf)
    
    *Vishwajeet Kumar, Ganesh Ramakrishnan, Yuan-Fang Li*
 
 ### [Content Selection](#content-selection)
 
-1. **Answer-based Adversarial Training for Generating Clarification Questions.** NAACL, 2019. [paper](https://arxiv.org/pdf/1904.02281.pdf) [code](https://github.com/raosudha89/clarification_question_generation_pytorch)
+Improve QG by considering how to select question-worthy contents (content selection) before asking a question. 
+
+1. **Identifying Where to Focus in Reading Comprehension for Neural Question Generation.** EMNLP, 2017. [paper](https://www.aclweb.org/anthology/D17-1219.pdf)
+   
+   *Xinya Du, Claire Cardie*
+
+2. **Answer-based Adversarial Training for Generating Clarification Questions.** NAACL, 2019. [paper](https://arxiv.org/pdf/1904.02281.pdf) [code](https://github.com/raosudha89/clarification_question_generation_pytorch)
    
    *Rao S, Daumé III H.*
 
-2. **Learning to Generate Questions by Learning What not to Generate.** WWW, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf) [code](https://github.com/BangLiu/QG)
+3. **Learning to Generate Questions by Learning What not to Generate.** WWW, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf) [code](https://github.com/BangLiu/QG)
 
     *Bang Liu, Mingjun Zhao, Di Niu, Kunfeng Lai, Yancheng He, Haojie Wei, Yu Xu.*
 
-3. **Improving Question Generation With to the Point Context.** EMNLP, 2019. [paper](https://arxiv.org/pdf/1910.06036.pdf)
+4. **Improving Question Generation With to the Point Context.** EMNLP, 2019. [paper](https://arxiv.org/pdf/1910.06036.pdf)
 
     *Jingjing Li, Yifan Gao, Lidong Bing, Irwin King, Michael R. Lyu.*
 
-4. **Weak Supervision Enhanced Generative Network for Question Generation.** IJCAI, 2019. [paper](https://arxiv.org/pdf/1907.00607v1)
+5. **Weak Supervision Enhanced Generative Network for Question Generation.** IJCAI, 2019. [paper](https://arxiv.org/pdf/1907.00607v1)
    
    *Yutong Wang, Jiyuan Zheng, Qijiong Liu, Zhou Zhao, Jun Xiao, Yueting Zhuang*
 
-5. **A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation.** AAAI, 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4700/4578)
+6. **A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation.** AAAI, 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4700/4578)
    
    *Siyuan Wang, Zhongyu Wei, Zhihao Fan, Yang Liu, Xuanjing Huang*
 
 ### [Question Type Modeling](#question-type-modeling)
 
-1. **Let Me Know What to Ask: Interrogative-Word-Aware Question Generation** EMNLP Workshop, 2019. [paper](https://arxiv.org/pdf/1910.13794.pdf)
+Improve QG by explicitly modeling question types or interrogative words. 
+
+1. **Question Generation for Question Answering.** EMNLP,2017. [paper](https://www.aclweb.org/anthology/D17-1090)
+   
+   *Nan Duan, Duyu Tang, Peng Chen, Ming Zhou*
+
+2. **Answer-focused and Position-aware Neural Question Generation.** EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1427)
+   
+   *Xingwu Sun, Jing Liu, Yajuan Lyu, Wei He, Yanjun Ma, Shi Wang*
+
+3. **Let Me Know What to Ask: Interrogative-Word-Aware Question Generation** EMNLP Workshop, 2019. [paper](https://arxiv.org/pdf/1910.13794.pdf)
    
    *Junmo Kang, Haritz Puerto San Roman, Sung-Hyon Myaeng*
 
-2. **Question-type Driven Question Generation** EMNLP, 2019. [paper](https://arxiv.org/pdf/1909.00140.pdf)
+4. **Question-type Driven Question Generation** EMNLP, 2019. [paper](https://arxiv.org/pdf/1909.00140.pdf)
    
    *Wenjie Zhou, Minghua Zhang, Yunfang Wu*
 
-
 ### [Encode Wider Contexts](#encode-wider-contexts)
 
-1. **Leveraging context information for natural question generation** ACL, 2018. [paper](https://www.aclweb.org/anthology/N18-2090) [code](https://github.com/freesunshine0316/MPQG)
+Improve QG by incorporating wider contexts in the input passage. 
+
+1. **Harvesting paragraph-level question-answer pairs from wikipedia.** ACL, 2018. [paper](https://arxiv.org/pdf/1805.05942.pdf) [code&dataset](https://github.com/xinyadu/HarvestingQA)
+    
+    *Xinya Du, Claire Cardie*
+
+2. **Leveraging Context Information for Natural Question Generation** ACL, 2018. [paper](https://www.aclweb.org/anthology/N18-2090) [code](https://github.com/freesunshine0316/MPQG)
    
    *Linfeng Song, Zhiguo Wang, Wael Hamza, Yue Zhang, Daniel Gildea*
 
-2. **Capturing Greater Context for Question Generation** arxiv, 2019. [paper](https://arxiv.org/pdf/1910.10274.pdf)
+3. **Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks.** EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1424.pdf)
+   
+   *Yao Zhao, Xiaochuan Ni, Yuanyuan Ding, Qifa Ke*
+
+4. **Capturing Greater Context for Question Generation** arxiv, 2019. [paper](https://arxiv.org/pdf/1910.10274.pdf)
    
    *Luu Anh Tuan, Darsh J Shah, Regina Barzilay*
 
@@ -157,9 +210,15 @@ A summary of must-read papers for Neural Question Generation (NQG)
    
    *Ahmed Elgohary, Denis Peskov, Jordan L. Boyd-Graber*
 
+5. **Sequential Copying Networks.** AAAI, 2018. [paper](https://arxiv.org/pdf/1807.02301.pdf)
+   
+   *Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou*
+
 ## [Applications](#applications)
 
 ### [Difficulty Controllable QG](#difficulty-controllable-QG)
+
+Endowing the model with the ability to control the difficulty of the generated questions. 
 
 1. **Easy-to-Hard: Leveraging Simple Questions for Complex Question Generation.** arxiv, 2019. [paper](https://arxiv.org/pdf/1912.02367.pdf)
 
@@ -170,6 +229,8 @@ A summary of must-read papers for Neural Question Generation (NQG)
    *Yifan Gao, Lidong Bing, Wang Chen, Michael R. Lyu, Irwin King* 
 
 ### [Conversational QG](#conversational-QG)
+
+Learning to generate a series of coherent questions grounded in a question answering style conversation. 
 
 1. **Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders.** ACL, 2018. [paper](https://arxiv.org/pdf/1805.04843.pdf) [code](https://github.com/victorywys/Learning2Ask_TypedDecoder) [dataset]( http://coai.cs.tsinghua.edu.cn/hml/dataset/)
    
@@ -189,33 +250,55 @@ A summary of must-read papers for Neural Question Generation (NQG)
 
 ### [Asking special questions](#asking-special-questions)
 
-1. **A Multi-language Platform for Generating Algebraic Mathematical Word Problems.** arxiv, 2019. [paper](https://arxiv.org/pdf/1912.01110.pdf)
+This direction focuses on exploring how to ask special types of questions, such as mathematical questions, open-ended questions, non-factoid questions, and clarification questions. 
+
+1. **Are You Asking the Right Questions? Teaching Machines to Ask Clarification Questions.** ACL Workshop, 2017. [paper](https://www.aclweb.org/anthology/P17-3006.pdf)
+   
+   *Sudha Rao*
+
+2. **Automatic Opinion Question Generation.** ICNLG, 2018. [paper](https://www.aclweb.org/anthology/W18-6518.pdf)
+   
+   *Yllias Chali, Tina Baghaee* 
+
+3. **A Multi-language Platform for Generating Algebraic Mathematical Word Problems.** arxiv, 2019. [paper](https://arxiv.org/pdf/1912.01110.pdf)
    
    *Vijini Liyanage, Surangika Ranathunga*
 
-2. **Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1497.pdf)
+4. **Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1497.pdf)
    
    *Zi Chai, Xinyu Xing, Xiaojun Wan, Bo Huang*
 
-3. **Conclusion-Supplement Answer Generation for Non-Factoid Questions.** AAAI, 2020. [paper](https://arxiv.org/pdf/1912.00864.pdf)
+5. **Conclusion-Supplement Answer Generation for Non-Factoid Questions.** AAAI, 2020. [paper](https://arxiv.org/pdf/1912.00864.pdf)
    
    *Makoto Nakatsuji, Sohei Okui*
 
-4. **Answer-based Adversarial Training for Generating Clarification Questions.** NAACL, 2019. [paper](https://arxiv.org/pdf/1904.02281.pdf) [code](https://github.com/raosudha89/clarification_question_generation_pytorch)
+6. **Answer-based Adversarial Training for Generating Clarification Questions.** NAACL, 2019. [paper](https://arxiv.org/pdf/1904.02281.pdf) [code](https://github.com/raosudha89/clarification_question_generation_pytorch)
    
    *Rao S, Daumé III H.*
 
-5. **Distant Supervised Why-Question Generation with Passage Self-Matching Attention.** IJCNN, 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8851781)
+7. **Distant Supervised Why-Question Generation with Passage Self-Matching Attention.** IJCNN, 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8851781)
    
    *Jiaxin Hu, Zhixu Li, Renshou Wu, Hongling Wang, An Liu, Jiajie Xu, Pengpeng Zhao, Lei Zhao*
 
 ### [Answer-unaware QG](#answer-unaware-QG)
 
-1. **Self-Attention Architectures for Answer-Agnostic Neural Question Generation.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1604.pdf)
+In answer-unaware QG, the model does not require the target answer as an input to serve as the focus of asking. Therefore, the model should automatically identify question-worthy parts within the passage to ask. 
+
+1. **Learning to ask: Neural question generation for reading comprehension.** ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123.pdf)
+
+    *Xinya Du, Junru Shao, Claire Cardie.*
+
+2. **Neural Models for Key Phrase Extraction and Question Generation.** ACL Workshop, 2018. [paper](https://www.aclweb.org/anthology/W18-2609.pdf)
+   
+   *Sandeep Subramanian, Tong Wang, Xingdi Yuan, Saizheng Zhang, Adam Trischler, Yoshua Bengio*
+
+3. **Self-Attention Architectures for Answer-Agnostic Neural Question Generation.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1604.pdf)
    
    *Thomas Scialom, Benjamin Piwowarski, Jacopo Staiano.*
 
 ### [Unanswerable QG](#unanswerable-QG)
+
+Learning to generate questions that cannot be answered by the input passage. 
 
 1. **Learning to Ask Unanswerable Questions for Machine Reading Comprehension.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1415.pdf)
    
@@ -223,20 +306,32 @@ A summary of must-read papers for Neural Question Generation (NQG)
 
 ### [Combining QA & QG](#Combining-QA-&-QG)
 
-1. **Generating Highly Relevant Questions.** EMNLP, 2019. [paper](https://arxiv.org/abs/1910.03401)
+This direction investigate how to combine the task of QA and QG by multi-task learning or joint training. 
+
+1. **Question Generation for Question Answering.** EMNLP,2017. [paper](https://www.aclweb.org/anthology/D17-1090)
+   
+   *Nan Duan, Duyu Tang, Peng Chen, Ming Zhou*
+
+2. **Learning to Collaborate for Question Answering and Asking.** NAACL, 2018. [paper](https://www.aclweb.org/anthology/N18-1141)
+   
+   *Duyu Tang, Nan Duan, Zhao Yan, Zhirui Zhang, Yibo Sun, Shujie Liu, Yuanhua Lv, Ming Zhou*
+
+3. **Generating Highly Relevant Questions.** EMNLP, 2019. [paper](https://arxiv.org/abs/1910.03401)
    
    *Jiazuo Qiu, Deyi Xiong*
 
-2. **Learning to Answer by Learning to Ask: Getting the Best of GPT-2 and BERT Worlds.** arxiv, 2019. [paper](https://arxiv.org/pdf/1911.02365.pdf)
+4. **Learning to Answer by Learning to Ask: Getting the Best of GPT-2 and BERT Worlds.** arxiv, 2019. [paper](https://arxiv.org/pdf/1911.02365.pdf)
    
    *Tassilo Klein, Moin Nabi*
 
-3. **Triple-Joint Modeling for Question Generation Using Cross-Task Autoencoder.** NLPCC, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-32236-6_26)
+5. **Triple-Joint Modeling for Question Generation Using Cross-Task Autoencoder.** NLPCC, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-32236-6_26)
    
    *Hongling Wang, Renshou Wu, Zhixu Li, Zhongqing Wang, Zhigang Chen, Guodong Zhou*
 
 
 ### [QG from knowledge graphs](#QG-from-knowledge-graphs)
+
+This direction is about generating questions from a knowledge graph. 
 
 1. **Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1247.pdf)
    
@@ -248,13 +343,23 @@ A summary of must-read papers for Neural Question Generation (NQG)
 
 ### [Visual Question Generation](#visual-question-generation)
 
+Asking questions based on visual inputs (usually an image). 
+
+1. **A Question Type Driven Framework to Diversify Visual Question Generation** IJCAI,2018. [paper](http://www.sdspeople.fudan.edu.cn/zywei/paper/fan-ijcai2018.pdf)
+   
+   *Zhihao Fan, Zhongyu Wei, Piji Li, Yanyan Lan, Xuanjing Huang*
+
 ## [Evaluation](#evaluation)
+
+This direction investigates how to evaluate the quality of generated questions. 
 
 1. **Evaluating Rewards for Question Generation Models.** NAACL, 2019. [paper](https://arxiv.org/pdf/1902.11049.pdf)
    
    *Tom Hosking and Sebastian Riedel.*
 
 ## [Resources](#resources)
+
+QG-specific datasets and toolkits. 
 
 1. **ParaQG: A System for Generating Questions and Answers from Paragraphs.** EMNLP Demo, 2019. [paper](https://arxiv.org/pdf/1909.01642.pdf)
    
