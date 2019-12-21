@@ -42,7 +42,8 @@ A summary of must-read papers for Neural Question Generation (NQG)
     <td>&ensp;<a href="#visual-question-generation">2.8 Visual Question Generation</a></td>
 </tr> 
 <tr>
-    <td colspan="2">&emsp;<a href="#distractor-generation">2.9 Distractor Generation</a></td>
+    <td>&emsp;<a href="#distractor-generation">2.9 Distractor Generation</a></td>
+    <td>&ensp;</td>
 </tr>
 <tr><td colspan="2"><a href="#evaluation">3. Evaluation</a></td></tr>
 <tr><td colspan="2"><a href="#resources">4. Resources</a></td></tr>
@@ -418,6 +419,8 @@ Asking questions based on visual inputs (usually an image).
    *Ranjay Krishna, Michael Bernstein, Li Fei-Fei*
 
 ### [Distractor Generation](#distractor-generation)
+
+Learning to generate distractors for multi-choice questions. 
 
 1. **Generating Questions and Multiple-Choice Answers using Semantic Analysis of Texts.** COLING, 2016. [paper](https://www.aclweb.org/anthology/C16-1107.pdf)
 
