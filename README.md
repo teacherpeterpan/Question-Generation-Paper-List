@@ -112,7 +112,11 @@ A summary of must-read papers for Neural Question Generation (NQG)
 
 4. **Weak Supervision Enhanced Generative Network for Question Generation.** IJCAI, 2019. [paper](https://arxiv.org/pdf/1907.00607v1)
    
-   *Yutong Wang, Jiyuan Zheng, Qijiong Liu, Zhou Zhao, Jun Xiao, Yueting Zhuang* 
+   *Yutong Wang, Jiyuan Zheng, Qijiong Liu, Zhou Zhao, Jun Xiao, Yueting Zhuang*
+
+5. **A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation.** AAAI, 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4700/4578)
+   
+   *Siyuan Wang, Zhongyu Wei, Zhihao Fan, Yang Liu, Xuanjing Huang*
 
 ### [Question Type Modeling](#question-type-modeling)
 
@@ -145,9 +149,13 @@ A summary of must-read papers for Neural Question Generation (NQG)
    
    *Kalpesh Krishna and Mohit Iyyer.*
 
-3. **Unified Language Model Pre-training for Natural Language Understanding and Generation.** NeurIPS, 2019. [paper](https://arxiv.org/pdf/1905.03197.pdf)
+3. **Unified Language Model Pre-training for Natural Language Understanding and Generation.** NeurIPS, 2019. [paper](https://arxiv.org/pdf/1905.03197.pdf) [code](https://github.com/microsoft/unilm)
    
    *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon*
+
+4. **Can You Unpack That? Learning to Rewrite Questions-in-Context.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1605.pdf)
+   
+   *Ahmed Elgohary, Denis Peskov, Jordan L. Boyd-Graber*
 
 ## [Applications](#applications)
 
@@ -223,6 +231,10 @@ A summary of must-read papers for Neural Question Generation (NQG)
    
    *Tassilo Klein, Moin Nabi*
 
+3. **Triple-Joint Modeling for Question Generation Using Cross-Task Autoencoder.** NLPCC, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-32236-6_26)
+   
+   *Hongling Wang, Renshou Wu, Zhixu Li, Zhongqing Wang, Zhigang Chen, Guodong Zhou*
+
 
 ### [QG from knowledge graphs](#QG-from-knowledge-graphs)
 
@@ -247,6 +259,10 @@ A summary of must-read papers for Neural Question Generation (NQG)
 1. **ParaQG: A System for Generating Questions and Answers from Paragraphs.** EMNLP Demo, 2019. [paper](https://arxiv.org/pdf/1909.01642.pdf)
    
    *Vishwajeet Kumar, Sivaanandh Muneeswaran, Ganesh Ramakrishnan, Yuan-Fang Li.*
+
+2. **How to Ask Better Questions? A Large-Scale Multi-Domain Dataset for Rewriting Ill-Formed Questions.** AAAI, 2020. [paper](https://arxiv.org/pdf/1911.09247.pdf) [code](https://github.com/ZeweiChu/MQR)
+   
+   *Zewei Chu, Mingda Chen, Jing Chen, Miaosen Wang, Kevin Gimpel, Manaal Faruqui, Xiance Si.*
 
 
 
