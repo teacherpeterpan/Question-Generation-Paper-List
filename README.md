@@ -35,10 +35,10 @@ A summary of must-read papers for Neural Question Generation (NQG)
 </tr>
 <tr>
     <td>&emsp;<a href="#unanswerable-QG">2.5 Unanswerable QG</a></td>
-    <td>&ensp;<a href="#combining-QA-&-QG">2.6 Combining QA & QG</a></td>
+    <td>&ensp;<a href="#combining-QA-and-QG">2.6 Combining QA and QG</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#QGf-from-knowledge-graphs">2.7 QG from knowledge graphs</a></td>
+    <td>&emsp;<a href="#QG-from-knowledge-graphs">2.7 QG from knowledge graphs</a></td>
     <td>&ensp;<a href="#visual-question-generation">2.8 Visual Question Generation</a></td>
 </tr> 
 <tr><td colspan="2"><a href="#evaluation">3. Evaluation</a></td></tr>
@@ -308,7 +308,7 @@ Learning to generate questions that cannot be answered by the input passage.
    
    *Haichao Zhu, Li Dong, Furu Wei, Wenhui Wang, Bing Qin, Ting Liu*
 
-### [Combining QA & QG](#Combining-QA-&-QG)
+### [Combining QA & QG](#Combining-QA-and-QG)
 
 This direction investigate how to combine the task of QA and QG by multi-task learning or joint training. 
 
