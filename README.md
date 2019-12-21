@@ -370,16 +370,49 @@ This direction is about generating questions from a knowledge graph.
    *Vishwajeet Kumar, Yuncheng Hua, Ganesh Ramakrishnan, Guilin Qi, Lianli Gao, Yuan-Fang Li*
 
 9.  **How Question Generation Can Help Question Answering over Knowledge Base.** NLPCC, 2019. [paper](http://tcci.ccf.org.cn/conference/2019/papers/183.pdf)
-   
-   *Sen Hu, Lei Zou, Zhanxing Zhu*
+    
+    *Sen Hu, Lei Zou, Zhanxing Zhu*
+
 
 ### [Visual Question Generation](#visual-question-generation)
 
 Asking questions based on visual inputs (usually an image). 
 
-1. **A Question Type Driven Framework to Diversify Visual Question Generation** IJCAI,2018. [paper](http://www.sdspeople.fudan.edu.cn/zywei/paper/fan-ijcai2018.pdf)
+1. **Generating Natural Questions About an Image** ACL, 2016. [paper](https://arxiv.org/pdf/1603.06059.pdf)
+   
+   *Nasrin Mostafazadeh, Ishan Misra, Jacob Devlin, Margaret Mitchell, Xiaodong He, Lucy Vanderwende*
+
+2. **Creativity: Generating Diverse Questions Using Variational Autoencoders** CVPR,2017. [paper](https://arxiv.org/pdf/1704.03493.pdf)
+   
+   *Unnat Jain, Ziyu Zhang, Alexander G. Schwing*
+
+3. **Automatic Generation of Grounded Visual Questions** IJCAI, 2017. [paper](https://www.ijcai.org/proceedings/2017/0592.pdf)
+   
+   *Shijie Zhang, Lizhen Qu, Shaodi You, Zhenglu Yang, Jiawan Zhang*
+
+4. **A Reinforcement Learning Framework for Natural Question Generation using Bi-discriminators** COLING, 2018. [paper](https://www.aclweb.org/anthology/C18-1150.pdf)
+   
+   *Zhihao Fan, Zhongyu Wei, Siyuan Wang, Yang Liu, Xuanjing Huang*
+
+5. **Customized Image Narrative Generation via Interactive Visual Question Generation and Answering** CVPR, 2018. [paper](https://arxiv.org/pdf/1805.00460.pdf)
+   
+   *Andrew Shin, Yoshitaka Ushiku, Tatsuya Harada*
+
+6. **Multimodal Differential Network for Visual Question Generation** EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1434.pdf)
+   
+   *Badri Narayana Patro, Sandeep Kumar, Vinod Kumar Kurmi, Vinay P. Namboodiri*
+
+7. **A Question Type Driven Framework to Diversify Visual Question Generation** IJCAI, 2018. [paper](http://www.sdspeople.fudan.edu.cn/zywei/paper/fan-ijcai2018.pdf)
    
    *Zhihao Fan, Zhongyu Wei, Piji Li, Yanyan Lan, Xuanjing Huang*
+
+8. **Visual Question Generation as Dual Task of Visual Question Answering.** CVPR, 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
+   
+   *Yikang Li, Nan Duan, Bolei Zhou, Xiao Chu, Wanli Ouyang, Xiaogang Wang, Ming Zhou* 
+
+9. **Information Maximizing Visual Question Generation.** CVPR, 2019. [paper](https://arxiv.org/pdf/1903.11207.pdf)
+
+   *Ranjay Krishna, Michael Bernstein, Li Fei-Fei*
 
 ## [Evaluation](#evaluation)
 
