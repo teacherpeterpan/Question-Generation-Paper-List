@@ -78,15 +78,23 @@ A summary of must-read papers for Neural Question Generation (NQG)
 
     *Bang Liu, Mingjun Zhao, Di Niu, Kunfeng Lai, Yancheng He, Haojie Wei, Yu Xu.*
 
+2. **Improving Neural Question Generation using World Knowledge.** arXiv, 2019. [paper](https://arxiv.org/pdf/1909.03716.pdf)
+   
+   *Deepak Gupta, Kaheer Suleman, Mahmoud Adada, Andrew McNamara, Justin Harris*
+
 ### [Question-specific Rewards](#RL-rewards)
 
 1. **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation** arxiv, 2019. [paper](https://arxiv.org/pdf/1908.04942.pdf)
    
    *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
 
-1. **Natural Question Generation with Reinforcement Learning Based Graph-to-Sequence Model** NeurIPS Workshop, 2019. [paper](https://arxiv.org/pdf/1910.08832.pdf)
+2. **Natural Question Generation with Reinforcement Learning Based Graph-to-Sequence Model** NeurIPS Workshop, 2019. [paper](https://arxiv.org/pdf/1910.08832.pdf)
    
    *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
+
+3. **Putting the Horse Before the Cart:A Generator-Evaluator Framework for Question Generation from Text** CoNLL, 2019. [paper](https://arxiv.org/pdf/1808.04961.pdf)
+   
+   *Vishwajeet Kumar, Ganesh Ramakrishnan, Yuan-Fang Li*
 
 ### [Content Selection](#content-selection)
 
@@ -101,6 +109,10 @@ A summary of must-read papers for Neural Question Generation (NQG)
 3. **Improving Question Generation With to the Point Context.** EMNLP, 2019. [paper](https://arxiv.org/pdf/1910.06036.pdf)
 
     *Jingjing Li, Yifan Gao, Lidong Bing, Irwin King, Michael R. Lyu.*
+
+4. **Weak Supervision Enhanced Generative Network for Question Generation.** IJCAI, 2019. [paper](https://arxiv.org/pdf/1907.00607v1)
+   
+   *Yutong Wang, Jiyuan Zheng, Qijiong Liu, Zhou Zhao, Jun Xiao, Yueting Zhuang* 
 
 ### [Question Type Modeling](#question-type-modeling)
 
@@ -132,6 +144,10 @@ A summary of must-read papers for Neural Question Generation (NQG)
 2. **Generating Question-Answer Hierarchies.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
    
    *Kalpesh Krishna and Mohit Iyyer.*
+
+3. **Unified Language Model Pre-training for Natural Language Understanding and Generation.** NeurIPS, 2019. [paper](https://arxiv.org/pdf/1905.03197.pdf)
+   
+   *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon*
 
 ## [Applications](#applications)
 
@@ -213,6 +229,10 @@ A summary of must-read papers for Neural Question Generation (NQG)
 1. **Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1247.pdf)
    
    *Cao Liu, Kang Liu, Shizhu He, Zaiqing Nie, Jun Zhao*
+
+2. **How Question Generation Can Help Question Answering over Knowledge Base.** NLPCC, 2019. [paper](http://tcci.ccf.org.cn/conference/2019/papers/183.pdf)
+   
+   *Sen Hu, Lei Zou, Zhanxing Zhu*
 
 ### [Visual Question Generation](#visual-question-generation)
 
