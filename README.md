@@ -128,6 +128,10 @@ Improving the training via combining supervised and reinforcement learning to ma
    
    *Vishwajeet Kumar, Ganesh Ramakrishnan, Yuan-Fang Li*
 
+5. **Addressing Semantic Drift in Question Generation for Semi-Supervised Question Answering** EMNLP, 2019. [paper](https://arxiv.org/pdf/1909.06356.pdf) [code](https://github.com/ZhangShiyue/QGforQA)
+   
+   *Shiyue Zhang, Mohit Bansal*
+
 ### [Content Selection](#content-selection)
 
 Improve QG by considering how to select question-worthy contents (content selection) before asking a question. 
