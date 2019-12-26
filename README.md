@@ -340,6 +340,10 @@ This direction investigate how to combine the task of QA and QG by multi-task le
    
    *Hongling Wang, Renshou Wu, Zhixu Li, Zhongqing Wang, Zhigang Chen, Guodong Zhou*
 
+6. **Addressing Semantic Drift in Question Generation for Semi-Supervised Question Answering** EMNLP, 2019. [paper](https://arxiv.org/pdf/1909.06356.pdf) [code](https://github.com/ZhangShiyue/QGforQA)
+   
+   *Shiyue Zhang, Mohit Bansal*
+
 
 ### [QG from knowledge graphs](#QG-from-knowledge-graphs)
 
