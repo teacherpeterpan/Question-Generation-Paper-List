@@ -344,6 +344,10 @@ This direction investigate how to combine the task of QA and QG by multi-task le
    
    *Shiyue Zhang, Mohit Bansal*
 
+7. **Synthetic QA Corpora Generation with Roundtrip Consistency** ACL, 2019. [paper](https://arxiv.org/pdf/1906.05416.pdf)
+   
+   *Chris Alberti, Daniel Andor, Emily Pitler, Jacob Devlin, Michael Collins*
+
 
 ### [QG from knowledge graphs](#QG-from-knowledge-graphs)
 
