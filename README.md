@@ -1,7 +1,7 @@
 # Question-Generation-Paper-List
 A summary of must-read papers for Neural Question Generation (NQG)
 
-- Contributed by **[Liangming Pan](www.liangmingpan.com)** and **[Yuxi Xie](https://yuxixie.github.io/)**.
+- Contributed by **[Liangming Pan](http://www.liangmingpan.com)** and **[Yuxi Xie](https://yuxixie.github.io/)**.
 
 ## [Content](#content)
 
