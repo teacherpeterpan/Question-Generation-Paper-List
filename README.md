@@ -222,6 +222,10 @@ Improve QG by incorporating wider contexts in the input passage.
    
    *Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou*
 
+6. **Let's Ask Again: Refine Network for Automatic Question Generation.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1326.pdf)
+   
+   *Preksha Nema, Akash Kumar Mohankumar, Mitesh M. Khapra, Balaji Vasan Srinivasan, Balaraman Ravindran*
+
 ## [Applications](#applications)
 
 ### [Difficulty Controllable QG](#difficulty-controllable-QG)
