@@ -160,6 +160,10 @@ Improve QG by considering how to select question-worthy contents (content select
    
    *Siyuan Wang, Zhongyu Wei, Zhihao Fan, Yang Liu, Xuanjing Huang*
 
+7. **Mixture Content Selection for Diverse Sequence Generation.** EMNLP, 2019. [paper](https://arxiv.org/pdf/1909.01953.pdf) [code](https://github.com/clovaai/FocusSeq2Seq)
+   
+   *Jaemin Cho, Minjoon Seo, Hannaneh Hajishirzi*
+
 ### [Question Type Modeling](#question-type-modeling)
 
 Improve QG by explicitly modeling question types or interrogative words. 
