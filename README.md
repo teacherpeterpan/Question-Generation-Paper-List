@@ -268,6 +268,10 @@ Learning to generate a series of coherent questions grounded in a question answe
    
    *Mao Nakanishi, Tetsunori Kobayashi, Yoshihiko Hayashi*
 
+5. **What Should I Ask? Using Conversationally Informative Rewards for Goal-oriented Visual Dialog.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1646.pdf)
+   
+   *Pushkar Shukla, Carlos Elmadjian, Richika Sharan, Vivek Kulkarni, Matthew Turk, William Yang Wang*
+
 ### [Asking special questions](#asking-special-questions)
 
 This direction focuses on exploring how to ask special types of questions, such as mathematical questions, open-ended questions, non-factoid questions, and clarification questions. 
@@ -437,6 +441,10 @@ Asking questions based on visual inputs (usually an image).
 9. **Information Maximizing Visual Question Generation.** CVPR, 2019. [paper](https://arxiv.org/pdf/1903.11207.pdf)
 
    *Ranjay Krishna, Michael Bernstein, Li Fei-Fei*
+
+10. **What Should I Ask? Using Conversationally Informative Rewards for Goal-oriented Visual Dialog.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1646.pdf)
+   
+   *Pushkar Shukla, Carlos Elmadjian, Richika Sharan, Vivek Kulkarni, Matthew Turk, William Yang Wang*
 
 ### [Distractor Generation](#distractor-generation)
 
