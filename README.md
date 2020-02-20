@@ -43,7 +43,7 @@ A summary of must-read papers for Neural Question Generation (NQG)
 </tr> 
 <tr>
     <td>&emsp;<a href="#distractor-generation">2.9 Distractor Generation</a></td>
-    <td>&ensp;</td>
+    <td>&ensp;<a href="#cross-lingual-QG">2.10 Cross-lingual QG</a></td>
 </tr>
 <tr><td colspan="2"><a href="#evaluation">3. Evaluation</a></td></tr>
 <tr><td colspan="2"><a href="#resources">4. Resources</a></td></tr>
@@ -206,27 +206,23 @@ Improve QG by incorporating wider contexts in the input passage.
 
 ### [Other Directions](#other-model)
 
-1. **Cross-Lingual Training for Automatic Question Generation.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.02525.pdf) [dataset](https://www.cse.iitb.ac.in/̃ganesh/HiQuAD/clqg/)
-   
-   *Vishwajeet Kumar, Nitish Joshi, Arijit Mukherjee, Ganesh Ramakrishnan, Preethi Jyothi*
-
-2. **Generating Question-Answer Hierarchies.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
+1. **Generating Question-Answer Hierarchies.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
    
    *Kalpesh Krishna and Mohit Iyyer.*
 
-3. **Unified Language Model Pre-training for Natural Language Understanding and Generation.** NeurIPS, 2019. [paper](https://arxiv.org/pdf/1905.03197.pdf) [code](https://github.com/microsoft/unilm)
+2. **Unified Language Model Pre-training for Natural Language Understanding and Generation.** NeurIPS, 2019. [paper](https://arxiv.org/pdf/1905.03197.pdf) [code](https://github.com/microsoft/unilm)
    
    *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon*
 
-4. **Can You Unpack That? Learning to Rewrite Questions-in-Context.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1605.pdf)
+3. **Can You Unpack That? Learning to Rewrite Questions-in-Context.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1605.pdf)
    
    *Ahmed Elgohary, Denis Peskov, Jordan L. Boyd-Graber*
 
-5. **Sequential Copying Networks.** AAAI, 2018. [paper](https://arxiv.org/pdf/1807.02301.pdf)
+4. **Sequential Copying Networks.** AAAI, 2018. [paper](https://arxiv.org/pdf/1807.02301.pdf)
    
    *Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou*
 
-6. **Let's Ask Again: Refine Network for Automatic Question Generation.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1326.pdf)
+5. **Let's Ask Again: Refine Network for Automatic Question Generation.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1326.pdf)
    
    *Preksha Nema, Akash Kumar Mohankumar, Mitesh M. Khapra, Balaji Vasan Srinivasan, Balaraman Ravindran*
 
@@ -461,6 +457,19 @@ Learning to generate distractors for multi-choice questions.
 3. **Generating Distractors for Reading Comprehension Questions from Real Examinations.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02768.pdf)
 
    *Yifan Gao, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu*
+
+### [Cross-lingual QG](#cross-lingual-QG)
+
+Building cross-lingual models to generate questions in low-resource languages. 
+
+1. **Cross-Lingual Training for Automatic Question Generation.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.02525.pdf) [dataset](https://www.cse.iitb.ac.in/̃ganesh/HiQuAD/clqg/)
+   
+   *Vishwajeet Kumar, Nitish Joshi, Arijit Mukherjee, Ganesh Ramakrishnan, Preethi Jyothi*
+
+2. **Cross-Lingual Natural Language Generation via Pre-Training.** AAAI, 2020. [paper](https://arxiv.org/pdf/1909.10481.pdf)
+
+   *Zewen Chi, Li Dong, Furu Wei, Wenhui Wang, Xian-Ling Mao, Heyan Huang*
+
 
 ## [Evaluation](#evaluation)
 
