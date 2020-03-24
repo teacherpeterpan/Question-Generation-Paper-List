@@ -164,6 +164,10 @@ Improve QG by considering how to select question-worthy contents (content select
    
    *Jaemin Cho, Minjoon Seo, Hannaneh Hajishirzi*
 
+8. **Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus.** WWW, 2020. [paper](https://arxiv.org/pdf/2002.00748.pdf)
+   
+   *Bang Liu, Haojie Wei, Di Niu, Haolan Chen, Yancheng He*
+
 ### [Question Type Modeling](#question-type-modeling)
 
 Improve QG by explicitly modeling question types or interrogative words. 
