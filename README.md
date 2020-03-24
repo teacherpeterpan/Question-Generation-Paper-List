@@ -200,7 +200,7 @@ Improve QG by incorporating wider contexts in the input passage.
    
    *Yao Zhao, Xiaochuan Ni, Yuanyuan Ding, Qifa Ke*
 
-4. **Capturing Greater Context for Question Generation** arxiv, 2019. [paper](https://arxiv.org/pdf/1910.10274.pdf)
+4. **Capturing Greater Context for Question Generation** AAAI, 2020. [paper](https://arxiv.org/pdf/1910.10274.pdf)
    
    *Luu Anh Tuan, Darsh J Shah, Regina Barzilay*
 
@@ -267,6 +267,10 @@ Learning to generate a series of coherent questions grounded in a question answe
 5. **What Should I Ask? Using Conversationally Informative Rewards for Goal-oriented Visual Dialog.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1646.pdf)
    
    *Pushkar Shukla, Carlos Elmadjian, Richika Sharan, Vivek Kulkarni, Matthew Turk, William Yang Wang*
+
+6. **Visual Dialogue State Tracking for Question Generation.** AAAI, 2020. [paper](https://arxiv.org/pdf/1911.07928.pdf)
+   
+   *Wei Pang, Xiaojie Wang*
 
 ### [Asking special questions](#asking-special-questions)
 
