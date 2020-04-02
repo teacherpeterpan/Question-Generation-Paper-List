@@ -446,11 +446,15 @@ Asking questions based on visual inputs (usually an image).
    
    *Yikang Li, Nan Duan, Bolei Zhou, Xiao Chu, Wanli Ouyang, Xiaogang Wang, Ming Zhou* 
 
-9. **Information Maximizing Visual Question Generation.** CVPR, 2019. [paper](https://arxiv.org/pdf/1903.11207.pdf)
+9. **Two can play this Game: Visual Dialog with Discriminative Question Generation and Answering.** CVPR, 2018. [paper](https://arxiv.org/pdf/1803.11186.pdf)
+   
+   *Unnat Jain, Svetlana Lazebnik, Alexander Schwing*
+
+10. **Information Maximizing Visual Question Generation.** CVPR, 2019. [paper](https://arxiv.org/pdf/1903.11207.pdf)
 
    *Ranjay Krishna, Michael Bernstein, Li Fei-Fei*
 
-10. **What Should I Ask? Using Conversationally Informative Rewards for Goal-oriented Visual Dialog.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1646.pdf)
+11. **What Should I Ask? Using Conversationally Informative Rewards for Goal-oriented Visual Dialog.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1646.pdf)
    
    *Pushkar Shukla, Carlos Elmadjian, Richika Sharan, Vivek Kulkarni, Matthew Turk, William Yang Wang*
 
