@@ -116,21 +116,21 @@ Improving the training via combining supervised and reinforcement learning to ma
    
    *Kaichun Yao, Libo Zhang, Tiejian Luo, Lili Tao, Yanjun Wu*
 
-2. **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation** arxiv, 2019. [paper](https://arxiv.org/pdf/1908.04942.pdf)
+2. **Natural Question Generation with Reinforcement Learning Based Graph-to-Sequence Model** NeurIPS Workshop, 2019. [paper](https://arxiv.org/pdf/1910.08832.pdf)
    
    *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
 
-3. **Natural Question Generation with Reinforcement Learning Based Graph-to-Sequence Model** NeurIPS Workshop, 2019. [paper](https://arxiv.org/pdf/1910.08832.pdf)
-   
-   *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
-
-4. **Putting the Horse Before the Cart:A Generator-Evaluator Framework for Question Generation from Text** CoNLL, 2019. [paper](https://arxiv.org/pdf/1808.04961.pdf)
+3. **Putting the Horse Before the Cart:A Generator-Evaluator Framework for Question Generation from Text** CoNLL, 2019. [paper](https://arxiv.org/pdf/1808.04961.pdf)
    
    *Vishwajeet Kumar, Ganesh Ramakrishnan, Yuan-Fang Li*
 
-5. **Addressing Semantic Drift in Question Generation for Semi-Supervised Question Answering** EMNLP, 2019. [paper](https://arxiv.org/pdf/1909.06356.pdf) [code](https://github.com/ZhangShiyue/QGforQA)
+4. **Addressing Semantic Drift in Question Generation for Semi-Supervised Question Answering** EMNLP, 2019. [paper](https://arxiv.org/pdf/1909.06356.pdf) [code](https://github.com/ZhangShiyue/QGforQA)
    
    *Shiyue Zhang, Mohit Bansal*
+
+5. **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation** ICLR, 2020. [paper](https://arxiv.org/pdf/1908.04942.pdf)
+   
+   *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
 
 ### [Content Selection](#content-selection)
 
@@ -256,23 +256,27 @@ Learning to generate a series of coherent questions grounded in a question answe
    
    *Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie*
 
-2. **Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.06893.pdf) [code](https://github.com/Evan-Gao/conversational-QG)
+2. **Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog.** NIPS, 2018. [paper](https://arxiv.org/pdf/1802.03881.pdf)
+
+   *Sang-Woo Lee, Yu-Jung Heo, Byoung-Tak Zhang*
+
+3. **Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.06893.pdf) [code](https://github.com/Evan-Gao/conversational-QG)
    
    *Yifan Gao, Piji Li, Irwin King, Michael R. Lyu*
 
-3. **Reinforced Dynamic Reasoning for Conversational Question Generation.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1203) [code](https://github.com/ZJULearning/ReDR) [dataset](https://stanfordnlp.github.io/coqa/)
+4. **Reinforced Dynamic Reasoning for Conversational Question Generation.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1203) [code](https://github.com/ZJULearning/ReDR) [dataset](https://stanfordnlp.github.io/coqa/)
    
    *Boyuan Pan, Hao Li, Ziyu Yao, Deng Cai, Huan Sun*
 
-4. **Towards Answer-unaware Conversational Question Generation.** ACL Workshop, 2019. [paper](https://www.aclweb.org/anthology/D19-5809.pdf)
+5. **Towards Answer-unaware Conversational Question Generation.** ACL Workshop, 2019. [paper](https://www.aclweb.org/anthology/D19-5809.pdf)
    
    *Mao Nakanishi, Tetsunori Kobayashi, Yoshihiko Hayashi*
 
-5. **What Should I Ask? Using Conversationally Informative Rewards for Goal-oriented Visual Dialog.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1646.pdf)
+6. **What Should I Ask? Using Conversationally Informative Rewards for Goal-oriented Visual Dialog.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1646.pdf)
    
    *Pushkar Shukla, Carlos Elmadjian, Richika Sharan, Vivek Kulkarni, Matthew Turk, William Yang Wang*
 
-6. **Visual Dialogue State Tracking for Question Generation.** AAAI, 2020. [paper](https://arxiv.org/pdf/1911.07928.pdf)
+7. **Visual Dialogue State Tracking for Question Generation.** AAAI, 2020. [paper](https://arxiv.org/pdf/1911.07928.pdf)
    
    *Wei Pang, Xiaojie Wang*
 
