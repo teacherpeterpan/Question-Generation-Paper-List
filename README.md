@@ -140,36 +140,33 @@ Improve QG by considering how to select question-worthy contents (content select
    
    *Xinya Du, Claire Cardie*
 
-2. **Answer-based Adversarial Training for Generating Clarification Questions.** NAACL, 2019. [paper](https://arxiv.org/pdf/1904.02281.pdf) [code](https://github.com/raosudha89/clarification_question_generation_pytorch)
-   
-   *Rao S, Daumé III H.*
 
-3. **A Comparative Study on Question-Worthy Sentence Selection Strategies for Educational Question Generation.** AIED, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-23204-7_6)
+2. **A Comparative Study on Question-Worthy Sentence Selection Strategies for Educational Question Generation.** AIED, 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-23204-7_6)
    
    *Guanliang Chen, Jie Yang, Dragan Gasevic*
 
 
-4. **Learning to Generate Questions by Learning What not to Generate.** WWW, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf) [code](https://github.com/BangLiu/QG)
+3. **Learning to Generate Questions by Learning What not to Generate.** WWW, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf) [code](https://github.com/BangLiu/QG)
 
     *Bang Liu, Mingjun Zhao, Di Niu, Kunfeng Lai, Yancheng He, Haojie Wei, Yu Xu.*
 
-5. **Improving Question Generation With to the Point Context.** EMNLP, 2019. [paper](https://arxiv.org/pdf/1910.06036.pdf)
+4. **Improving Question Generation With to the Point Context.** EMNLP, 2019. [paper](https://arxiv.org/pdf/1910.06036.pdf)
 
     *Jingjing Li, Yifan Gao, Lidong Bing, Irwin King, Michael R. Lyu.*
 
-6. **Weak Supervision Enhanced Generative Network for Question Generation.** IJCAI, 2019. [paper](https://arxiv.org/pdf/1907.00607v1)
+5. **Weak Supervision Enhanced Generative Network for Question Generation.** IJCAI, 2019. [paper](https://arxiv.org/pdf/1907.00607v1)
    
    *Yutong Wang, Jiyuan Zheng, Qijiong Liu, Zhou Zhao, Jun Xiao, Yueting Zhuang*
 
-7. **A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation.** AAAI, 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4700/4578)
+6. **A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation.** AAAI, 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4700/4578)
    
    *Siyuan Wang, Zhongyu Wei, Zhihao Fan, Yang Liu, Xuanjing Huang*
 
-8. **Mixture Content Selection for Diverse Sequence Generation.** EMNLP, 2019. [paper](https://arxiv.org/pdf/1909.01953.pdf) [code](https://github.com/clovaai/FocusSeq2Seq)
+7. **Mixture Content Selection for Diverse Sequence Generation.** EMNLP, 2019. [paper](https://arxiv.org/pdf/1909.01953.pdf) [code](https://github.com/clovaai/FocusSeq2Seq)
    
    *Jaemin Cho, Minjoon Seo, Hannaneh Hajishirzi*
 
-9. **Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus.** WWW, 2020. [paper](https://arxiv.org/pdf/2002.00748.pdf)
+8. **Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus.** WWW, 2020. [paper](https://arxiv.org/pdf/2002.00748.pdf)
    
    *Bang Liu, Haojie Wei, Di Niu, Haolan Chen, Yancheng He*
 
