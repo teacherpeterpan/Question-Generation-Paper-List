@@ -328,7 +328,7 @@ This direction focuses on exploring how to ask deep questions that require high 
    
    *Makoto Nakatsuji, Sohei Okui*
 
-10. **Semantic Graphs for Generating Deep Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.12704.pdf) [code](https://github.com/YuxiXie/SG-Deep-Question-Generation)
+9. **Semantic Graphs for Generating Deep Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.12704.pdf) [code](https://github.com/YuxiXie/SG-Deep-Question-Generation)
    
    *Liangming Pan, Yuxi Xie, Yansong Feng, Tat-Seng Chua, Min-Yen Kan*
 
