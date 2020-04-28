@@ -328,6 +328,11 @@ This direction focuses on exploring how to ask deep questions that require high 
    
    *Makoto Nakatsuji, Sohei Okui*
 
+10. **Semantic Graphs for Generating Deep Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.12704.pdf) [code](https://github.com/YuxiXie/SG-Deep-Question-Generation)
+   
+   *Liangming Pan, Yuxi Xie, Yansong Feng, Tat-Seng Chua, Min-Yen Kan*
+
+
 ### [Combining QA and QG](#Combining-QA-and-QG)
 
 This direction investigate how to combine the task of QA and QG by multi-task learning or joint training. 
