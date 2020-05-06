@@ -220,23 +220,27 @@ Improve QG by incorporating wider contexts in the input passage.
 
 ### [Other Directions](#other-model)
 
-1. **Generating Question-Answer Hierarchies.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
+1. **QURIOUS: Question Generation Pretraining for Text Generation.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.11026.pdf)
+   
+   *Shashi Narayan, Gonçalo Simoes, Ji Ma, Hannah Craighead, Ryan Mcdonald*
+
+2. **Generating Question-Answer Hierarchies.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
    
    *Kalpesh Krishna and Mohit Iyyer.*
 
-2. **Unified Language Model Pre-training for Natural Language Understanding and Generation.** NeurIPS, 2019. [paper](https://arxiv.org/pdf/1905.03197.pdf) [code](https://github.com/microsoft/unilm)
+3. **Unified Language Model Pre-training for Natural Language Understanding and Generation.** NeurIPS, 2019. [paper](https://arxiv.org/pdf/1905.03197.pdf) [code](https://github.com/microsoft/unilm)
    
    *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon*
 
-3. **Can You Unpack That? Learning to Rewrite Questions-in-Context.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1605.pdf)
+4. **Can You Unpack That? Learning to Rewrite Questions-in-Context.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1605.pdf)
    
    *Ahmed Elgohary, Denis Peskov, Jordan L. Boyd-Graber*
 
-4. **Sequential Copying Networks.** AAAI, 2018. [paper](https://arxiv.org/pdf/1807.02301.pdf)
+5. **Sequential Copying Networks.** AAAI, 2018. [paper](https://arxiv.org/pdf/1807.02301.pdf)
    
    *Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou*
 
-5. **Let's Ask Again: Refine Network for Automatic Question Generation.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1326.pdf)
+6. **Let's Ask Again: Refine Network for Automatic Question Generation.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1326.pdf)
    
    *Preksha Nema, Akash Kumar Mohankumar, Mitesh M. Khapra, Balaji Vasan Srinivasan, Balaraman Ravindran*
 
@@ -289,6 +293,10 @@ Learning to generate a series of coherent questions grounded in a question answe
 7. **Visual Dialogue State Tracking for Question Generation.** AAAI, 2020. [paper](https://arxiv.org/pdf/1911.07928.pdf)
    
    *Wei Pang, Xiaojie Wang*
+
+8. **Stay Hungry, Stay Focused: Generating Informative and Specific Questions in Information-Seeking Conversations.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.14530.pdf)
+   
+   *Peng Qi, Yuhao Zhang, Christopher D. Manning*
 
 ### [Asking Deep Questions](#asking-deep-questions)
 

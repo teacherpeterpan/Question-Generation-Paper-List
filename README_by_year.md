@@ -47,13 +47,21 @@ Please follow [this link](./README.md) to view papers by topics.
    
    *Liangming Pan, Yuxi Xie, Yansong Feng, Tat-Seng Chua, Min-Yen Kan*
 
+9. **QURIOUS: Question Generation Pretraining for Text Generation.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.11026.pdf)
+   
+   *Shashi Narayan, Gonçalo Simoes, Ji Ma, Hannah Craighead, Ryan Mcdonald*
+
+9. **Stay Hungry, Stay Focused: Generating Informative and Specific Questions in Information-Seeking Conversations.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.14530.pdf)
+   
+   *Peng Qi, Yuhao Zhang, Christopher D. Manning*
+
 ## [2019](#2019)
 
-2. **Improving Neural Question Generation Using Answer Separation.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf) [code](https://github.com/yanghoonkim/NQG_ASs2s)
+1. **Improving Neural Question Generation Using Answer Separation.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf) [code](https://github.com/yanghoonkim/NQG_ASs2s)
 
     *Yanghoon Kim, Hwanhee Lee, Joongbo Shin, Kyomin Jung.*
 
-3. **Learning to Generate Questions by Learning What not to Generate.** WWW, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf) [code](https://github.com/BangLiu/QG)
+2. **Learning to Generate Questions by Learning What not to Generate.** WWW, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf) [code](https://github.com/BangLiu/QG)
 
     *Bang Liu, Mingjun Zhao, Di Niu, Kunfeng Lai, Yancheng He, Haojie Wei, Yu Xu.*
 
