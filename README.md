@@ -294,6 +294,10 @@ Learning to generate a series of coherent questions grounded in a question answe
    
    *Wei Pang, Xiaojie Wang*
 
+7. **Interactive Classification by Asking Informative Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/1911.03598.pdf)
+   
+   *Lili Yu, Howard Chen, Sida Wang, Tao Lei, Yoav Artzi*
+
 8. **Stay Hungry, Stay Focused: Generating Informative and Specific Questions in Information-Seeking Conversations.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.14530.pdf)
    
    *Peng Qi, Yuhao Zhang, Christopher D. Manning*
@@ -338,6 +342,10 @@ This direction focuses on exploring how to ask deep questions that require high 
    
    *Makoto Nakatsuji, Sohei Okui*
 
+9. **Generating Multi-hop Reasoning Questions to Improve Machine Reading Comprehension.** WWW, 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380114)
+   
+   *Jianxing Yu, Xiaojun Quan, Qinliang Su, Jian Yin*
+
 9. **Semantic Graphs for Generating Deep Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.12704.pdf) [code](https://github.com/YuxiXie/SG-Deep-Question-Generation)
    
    *Liangming Pan, Yuxi Xie, Yansong Feng, Tat-Seng Chua, Min-Yen Kan*
@@ -375,6 +383,13 @@ This direction investigate how to combine the task of QA and QG by multi-task le
    
    *Chris Alberti, Daniel Andor, Emily Pitler, Jacob Devlin, Michael Collins*
 
+9. **Generating Multi-hop Reasoning Questions to Improve Machine Reading Comprehension.** WWW, 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380114)
+   
+   *Jianxing Yu, Xiaojun Quan, Qinliang Su, Jian Yin*
+
+9. **Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.11892.pdf)
+   
+   *Alexander R. Fabbri, Patrick Ng, Zhiguo Wang, Ramesh Nallapati, Bing Xiang*
 
 ### [QG from knowledge graphs](#QG-from-knowledge-graphs)
 

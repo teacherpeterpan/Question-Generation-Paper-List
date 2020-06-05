@@ -39,6 +39,10 @@ Please follow [this link](./README.md) to view papers by topics.
    
    *Bang Liu, Haojie Wei, Di Niu, Haolan Chen, Yancheng He*
 
+9. **Generating Multi-hop Reasoning Questions to Improve Machine Reading Comprehension.** WWW, 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380114)
+   
+   *Jianxing Yu, Xiaojun Quan, Qinliang Su, Jian Yin*
+
 5. **Syn-QG: Syntactic and Shallow Semantic Rules for Question Generation.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.08694.pdf)
    
    *Kaustubh D. Dhole, Christopher D. Manning*
@@ -46,6 +50,14 @@ Please follow [this link](./README.md) to view papers by topics.
 9. **Semantic Graphs for Generating Deep Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.12704.pdf) [code](https://github.com/YuxiXie/SG-Deep-Question-Generation)
    
    *Liangming Pan, Yuxi Xie, Yansong Feng, Tat-Seng Chua, Min-Yen Kan*
+
+9. **Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.11892.pdf)
+   
+   *Alexander R. Fabbri, Patrick Ng, Zhiguo Wang, Ramesh Nallapati, Bing Xiang*
+
+7. **Interactive Classification by Asking Informative Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/1911.03598.pdf)
+   
+   *Lili Yu, Howard Chen, Sida Wang, Tao Lei, Yoav Artzi*
 
 9. **QURIOUS: Question Generation Pretraining for Text Generation.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.11026.pdf)
    
