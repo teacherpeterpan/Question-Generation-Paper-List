@@ -302,6 +302,10 @@ Learning to generate a series of coherent questions grounded in a question answe
    
    *Lili Yu, Howard Chen, Sida Wang, Tao Lei, Yoav Artzi*
 
+7. **Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.21.pdf) [dataset](https://github.com/ChaiZ-pku/Sequential-QG)
+   
+   *Zi Chai, Xiaojun Wan*
+
 8. **Stay Hungry, Stay Focused: Generating Informative and Specific Questions in Information-Seeking Conversations.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.14530.pdf)
    
    *Peng Qi, Yuhao Zhang, Christopher D. Manning*
@@ -350,9 +354,17 @@ This direction focuses on exploring how to ask deep questions that require high 
    
    *Jianxing Yu, Xiaojun Quan, Qinliang Su, Jian Yin*
 
-9. **Semantic Graphs for Generating Deep Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.12704.pdf) [code](https://github.com/YuxiXie/SG-Deep-Question-Generation)
+10. **Low-Resource Generation of Multi-hop Reasoning Questions.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.601.pdf)
+   
+   *Jianxing Yu, Wei Liu, Shuang Qiu, Qinliang Su, Kai Wang, Xiaojun Quan, Jian Yin*
+
+11. **Semantic Graphs for Generating Deep Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.12704.pdf) [code](https://github.com/YuxiXie/SG-Deep-Question-Generation)
    
    *Liangming Pan, Yuxi Xie, Yansong Feng, Tat-Seng Chua, Min-Yen Kan*
+
+10. **Review-based Question Generation with Adaptive Instance Transfer and Augmentation.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.26.pdf)
+   
+   *Qian Yu, Lidong Bing, Qiong Zhang, Wai Lam, Luo Si*
 
 
 ### [Combining QA and QG](#Combining-QA-and-QG)
@@ -394,6 +406,10 @@ This direction investigate how to combine the task of QA and QG by multi-task le
 9. **Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.11892.pdf)
    
    *Alexander R. Fabbri, Patrick Ng, Zhiguo Wang, Ramesh Nallapati, Bing Xiang*
+
+9. **On the Importance of Diversity in Question Generation for QA.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.500.pdf)
+   
+   *Md Arafat Sultan, Shubham Chandel, Ramón Fernandez Astudillo, Vittorio Castelli*
 
 ### [QG from knowledge graphs](#QG-from-knowledge-graphs)
 
@@ -544,6 +560,10 @@ QG-specific datasets and toolkits.
 3. **How to Ask Better Questions? A Large-Scale Multi-Domain Dataset for Rewriting Ill-Formed Questions.** AAAI, 2020. [paper](https://arxiv.org/pdf/1911.09247.pdf) [code](https://github.com/ZeweiChu/MQR)
    
    *Zewei Chu, Mingda Chen, Jing Chen, Miaosen Wang, Kevin Gimpel, Manaal Faruqui, Xiance Si.*
+
+3. **ClarQ: A large-scale and diverse dataset for Clarification Question Generation.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.651.pdf) [dataset](https://github.com/vaibhav4595/ClarQ)
+   
+   *Vaibhav Kumar, Alan W. black.*
 
 
 

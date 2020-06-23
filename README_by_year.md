@@ -63,6 +63,26 @@ Please follow [this link](./README.md) to view papers by topics.
    
    *Xin Jia, Wenjie Zhou, Xu SUN, Yunfang Wu*
 
+7. **Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.21.pdf) [dataset](https://github.com/ChaiZ-pku/Sequential-QG)
+   
+   *Zi Chai, Xiaojun Wan*
+
+10. **Low-Resource Generation of Multi-hop Reasoning Questions.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.601.pdf)
+   
+   *Jianxing Yu, Wei Liu, Shuang Qiu, Qinliang Su, Kai Wang, Xiaojun Quan, Jian Yin*
+
+10. **Review-based Question Generation with Adaptive Instance Transfer and Augmentation.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.26.pdf)
+   
+   *Qian Yu, Lidong Bing, Qiong Zhang, Wai Lam, Luo Si*
+
+3. **ClarQ: A large-scale and diverse dataset for Clarification Question Generation.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.651.pdf) [dataset](https://github.com/vaibhav4595/ClarQ)
+   
+   *Vaibhav Kumar, Alan W. black.*
+
+9. **On the Importance of Diversity in Question Generation for QA.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.500.pdf)
+   
+   *Md Arafat Sultan, Shubham Chandel, Ramón Fernandez Astudillo, Vittorio Castelli*
+
 9. **QURIOUS: Question Generation Pretraining for Text Generation.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.11026.pdf)
    
    *Shashi Narayan, Gonçalo Simoes, Ji Ma, Hannah Craighead, Ryan Mcdonald*
