@@ -218,6 +218,10 @@ Improve QG by incorporating wider contexts in the input passage.
    
    *Luu Anh Tuan, Darsh J Shah, Regina Barzilay*
 
+5. **How to Ask Good Questions? Try to Leverage Paraphrases** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.545.pdf)
+   
+   *Xin Jia, Wenjie Zhou, Xu SUN, Yunfang Wu*
+
 ### [Other Directions](#other-model)
 
 1. **QURIOUS: Question Generation Pretraining for Text Generation.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.11026.pdf)

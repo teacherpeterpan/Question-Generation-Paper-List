@@ -59,6 +59,10 @@ Please follow [this link](./README.md) to view papers by topics.
    
    *Lili Yu, Howard Chen, Sida Wang, Tao Lei, Yoav Artzi*
 
+5. **How to Ask Good Questions? Try to Leverage Paraphrases** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.545.pdf)
+   
+   *Xin Jia, Wenjie Zhou, Xu SUN, Yunfang Wu*
+
 9. **QURIOUS: Question Generation Pretraining for Text Generation.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.11026.pdf)
    
    *Shashi Narayan, Gonçalo Simoes, Ji Ma, Hannah Craighead, Ryan Mcdonald*
