@@ -174,9 +174,9 @@ Improve QG by considering how to select question-worthy contents (content select
    
    *Jaemin Cho, Minjoon Seo, Hannaneh Hajishirzi*
 
-10. **Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus.** WWW, 2020. [paper](https://arxiv.org/pdf/2002.00748.pdf)
-   
-   *Bang Liu, Haojie Wei, Di Niu, Haolan Chen, Yancheng He*
+10. **Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus.** WWW, 2020. [paper](https://arxiv.org/pdf/2002.00748.pdf
+    
+    *Bang Liu, Haojie Wei, Di Niu, Haolan Chen, Yancheng He*
 
 ### [Question Type Modeling](#question-type-modeling)
 
@@ -355,16 +355,16 @@ This direction focuses on exploring how to ask deep questions that require high 
    *Jianxing Yu, Xiaojun Quan, Qinliang Su, Jian Yin*
 
 10. **Low-Resource Generation of Multi-hop Reasoning Questions.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.601.pdf)
-   
-   *Jianxing Yu, Wei Liu, Shuang Qiu, Qinliang Su, Kai Wang, Xiaojun Quan, Jian Yin*
+    
+    *Jianxing Yu, Wei Liu, Shuang Qiu, Qinliang Su, Kai Wang, Xiaojun Quan, Jian Yin*
 
 11. **Semantic Graphs for Generating Deep Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/2004.12704.pdf) [code](https://github.com/YuxiXie/SG-Deep-Question-Generation)
-   
-   *Liangming Pan, Yuxi Xie, Yansong Feng, Tat-Seng Chua, Min-Yen Kan*
+    
+    *Liangming Pan, Yuxi Xie, Yansong Feng, Tat-Seng Chua, Min-Yen Kan*
 
-10. **Review-based Question Generation with Adaptive Instance Transfer and Augmentation.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.26.pdf)
-   
-   *Qian Yu, Lidong Bing, Qiong Zhang, Wai Lam, Luo Si*
+12. **Review-based Question Generation with Adaptive Instance Transfer and Augmentation.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.26.pdf)
+    
+    *Qian Yu, Lidong Bing, Qiong Zhang, Wai Lam, Luo Si*
 
 
 ### [Combining QA and QG](#Combining-QA-and-QG)
@@ -493,12 +493,12 @@ Asking questions based on visual inputs (usually an image).
    *Unnat Jain, Svetlana Lazebnik, Alexander Schwing*
 
 10. **Information Maximizing Visual Question Generation.** CVPR, 2019. [paper](https://arxiv.org/pdf/1903.11207.pdf)
-
-   *Ranjay Krishna, Michael Bernstein, Li Fei-Fei*
+    
+    *Ranjay Krishna, Michael Bernstein, Li Fei-Fei*
 
 11. **What Should I Ask? Using Conversationally Informative Rewards for Goal-oriented Visual Dialog.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1646.pdf)
-   
-   *Pushkar Shukla, Carlos Elmadjian, Richika Sharan, Vivek Kulkarni, Matthew Turk, William Yang Wang*
+    
+    *Pushkar Shukla, Carlos Elmadjian, Richika Sharan, Vivek Kulkarni, Matthew Turk, William Yang Wang*
 
 ### [Distractor Generation](#distractor-generation)
 
