@@ -91,6 +91,10 @@ Please follow [this link](./README.md) to view papers by topics.
     
     *Peng Qi, Yuhao Zhang, Christopher D. Manning*
 
+16.  **Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.06015.pdf)
+
+      *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
+
 ## [2019](#2019)
 
 1. **Improving Neural Question Generation Using Answer Separation.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf) [code](https://github.com/yanghoonkim/NQG_ASs2s)

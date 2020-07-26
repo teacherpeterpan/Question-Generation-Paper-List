@@ -451,6 +451,10 @@ This direction is about generating questions from a knowledge graph.
     
     *Sen Hu, Lei Zou, Zhanxing Zhu*
 
+10.  **Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.06015.pdf)
+
+      *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
+
 
 ### [Visual Question Generation](#visual-question-generation)
 
