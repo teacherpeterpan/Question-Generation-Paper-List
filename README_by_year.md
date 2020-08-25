@@ -95,6 +95,10 @@ Please follow [this link](./README.md) to view papers by topics.
 
       *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
 
+11.  **Generating Semantically Valid Adversarial Questions for TableQA.** arXiv, 2020. [paper](https://arxiv.org/pdf/2005.12696.pdf)
+
+      *Yi Zhu, Menglin Xia, Yiwei Zhou*
+
 ## [2019](#2019)
 
 1. **Improving Neural Question Generation Using Answer Separation.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf) [code](https://github.com/yanghoonkim/NQG_ASs2s)
@@ -160,6 +164,10 @@ Please follow [this link](./README.md) to view papers by topics.
 1. **Generating Question-Answer Hierarchies.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
    
    *Kalpesh Krishna and Mohit Iyyer.*
+
+7. **Unsupervised Question Answering by Cloze Translation** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1484.pdf)
+   
+   *Patrick Lewis, Ludovic Denoyer, Sebastian Riedel*
 
 2. **Unified Language Model Pre-training for Natural Language Understanding and Generation.** NeurIPS, 2019. [paper](https://arxiv.org/pdf/1905.03197.pdf) [code](https://github.com/microsoft/unilm)
    

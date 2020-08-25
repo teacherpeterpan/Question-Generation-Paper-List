@@ -50,7 +50,11 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 ## [Survey papers](#content)
 1. **Recent Advances in Neural Question Generation.** arxiv, 2018. [paper](https://arxiv.org/pdf/1905.08949.pdf)
     
-    *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan.* 
+    *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan* 
+
+2. **A Systematic Review of Automatic Question Generation for Educational Purposes.** International Journal of Artificial Intelligence in Education, 2020. [paper](https://link.springer.com/content/pdf/10.1007/s40593-019-00186-y.pdf)
+    
+    *Ghader Kurdi, Jared Leo, Bijan Parsia, Uli Sattler, Salam Al-Emari* 
 
 ## [Models](#content)   
 
@@ -399,6 +403,10 @@ This direction investigate how to combine the task of QA and QG by multi-task le
    
    *Chris Alberti, Daniel Andor, Emily Pitler, Jacob Devlin, Michael Collins*
 
+7. **Unsupervised Question Answering by Cloze Translation** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1484.pdf)
+   
+   *Patrick Lewis, Ludovic Denoyer, Sebastian Riedel*
+
 9. **Generating Multi-hop Reasoning Questions to Improve Machine Reading Comprehension.** WWW, 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380114)
    
    *Jianxing Yu, Xiaojun Quan, Qinliang Su, Jian Yin*
@@ -454,6 +462,10 @@ This direction is about generating questions from a knowledge graph.
 10.  **Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.06015.pdf)
 
       *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
+
+11.  **Generating Semantically Valid Adversarial Questions for TableQA.** arXiv, 2020. [paper](https://arxiv.org/pdf/2005.12696.pdf)
+
+      *Yi Zhu, Menglin Xia, Yiwei Zhou*
 
 
 ### [Visual Question Generation](#visual-question-generation)
