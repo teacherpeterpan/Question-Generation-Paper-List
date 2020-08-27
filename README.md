@@ -24,7 +24,10 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 </tr>
 <tr>
     <td>&emsp;<a href="#encode-wider-contexts">2.7 Encode wider contexts</a></td>
-    <td>&ensp;<a href="#other-directions">2.8 Other Directions</a></td>
+    <td>&ensp;<a href="#qg-with-pretraining">2.8 QG with pretraining</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#other-directions">2.9 Other Directions</a></td>
 </tr>
 <tr><td colspan="2"><a href="#applications">2. Applications</a></td></tr> 
 <tr>
@@ -226,29 +229,45 @@ Improve QG by incorporating wider contexts in the input passage.
    
    *Xin Jia, Wenjie Zhou, Xu SUN, Yunfang Wu*
 
-### [Other Directions](#other-model)
+### [QG with pretraining](#qg-with-pretraining)
 
-1. **QURIOUS: Question Generation Pretraining for Text Generation.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.11026.pdf)
-   
-   *Shashi Narayan, Gonçalo Simoes, Ji Ma, Hannah Craighead, Ryan Mcdonald*
+Improve QG ultilizing NLP pretraining models. 
 
-2. **Generating Question-Answer Hierarchies.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
-   
-   *Kalpesh Krishna and Mohit Iyyer.*
-
-3. **Unified Language Model Pre-training for Natural Language Understanding and Generation.** NeurIPS, 2019. [paper](https://arxiv.org/pdf/1905.03197.pdf) [code](https://github.com/microsoft/unilm)
+1. **Unified Language Model Pre-training for Natural Language Understanding and Generation.** NeurIPS, 2019. [paper](https://arxiv.org/pdf/1905.03197.pdf) [code](https://github.com/microsoft/unilm)
    
    *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon*
 
-4. **Can You Unpack That? Learning to Rewrite Questions-in-Context.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1605.pdf)
+2. **A Recurrent BERT-based Model for Question Generation.** MRQA Workshop, 2019. [paper](https://www.aclweb.org/anthology/D19-5821.pdf)
+
+   *Ying-Hong Chan, Yao-Chung Fan*
+
+3. **CopyBERT: A Unified Approach to Question Generation with Self-Attention.** ACL Workshop, 2020. [paper](https://www.aclweb.org/anthology/2020.nlp4convai-1.3.pdf) [code](https://github.com/StalVars/CopyBERT)
+
+   *Stalin Varanasi, Saadullah Amin, Guenter Neumann*
+
+4. **QURIOUS: Question Generation Pretraining for Text Generation.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.11026.pdf)
+   
+   *Shashi Narayan, Gonçalo Simoes, Ji Ma, Hannah Craighead, Ryan Mcdonald*
+
+5. **UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training.** arXiv, 2020. [paper](https://arxiv.org/pdf/2002.12804.pdf) [code](https://github.com/microsoft/unilm/tree/master/unilm)
+   
+   *Hangbo Bao, Li Dong, Furu Wei, Wenhui Wang, Nan Yang, Xiaodong Liu, Yu Wang, Songhao Piao, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon*
+
+### [Other Directions](#other-model)
+
+1. **Generating Question-Answer Hierarchies.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
+   
+   *Kalpesh Krishna and Mohit Iyyer.*
+
+2. **Can You Unpack That? Learning to Rewrite Questions-in-Context.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1605.pdf)
    
    *Ahmed Elgohary, Denis Peskov, Jordan L. Boyd-Graber*
 
-5. **Sequential Copying Networks.** AAAI, 2018. [paper](https://arxiv.org/pdf/1807.02301.pdf)
+3. **Sequential Copying Networks.** AAAI, 2018. [paper](https://arxiv.org/pdf/1807.02301.pdf)
    
    *Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou*
 
-6. **Let's Ask Again: Refine Network for Automatic Question Generation.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1326.pdf)
+4. **Let's Ask Again: Refine Network for Automatic Question Generation.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1326.pdf)
    
    *Preksha Nema, Akash Kumar Mohankumar, Mitesh M. Khapra, Balaji Vasan Srinivasan, Balaraman Ravindran*
 

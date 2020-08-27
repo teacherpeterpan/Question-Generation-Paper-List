@@ -99,6 +99,14 @@ Please follow [this link](./README.md) to view papers by topics.
 
       *Yi Zhu, Menglin Xia, Yiwei Zhou*
 
+3. **CopyBERT: A Unified Approach to Question Generation with Self-Attention.** ACL Workshop, 2020. [paper](https://www.aclweb.org/anthology/2020.nlp4convai-1.3.pdf) [code](https://github.com/StalVars/CopyBERT)
+
+   *Stalin Varanasi, Saadullah Amin, Guenter Neumann*
+
+5. **UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training.** arXiv, 2020. [paper](https://arxiv.org/pdf/2002.12804.pdf) [code](https://github.com/microsoft/unilm/tree/master/unilm)
+   
+   *Hangbo Bao, Li Dong, Furu Wei, Wenhui Wang, Nan Yang, Xiaodong Liu, Yu Wang, Songhao Piao, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon*
+
 ## [2019](#2019)
 
 1. **Improving Neural Question Generation Using Answer Separation.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf) [code](https://github.com/yanghoonkim/NQG_ASs2s)
@@ -116,6 +124,10 @@ Please follow [this link](./README.md) to view papers by topics.
 2. **Natural Question Generation with Reinforcement Learning Based Graph-to-Sequence Model** NeurIPS Workshop, 2019. [paper](https://arxiv.org/pdf/1910.08832.pdf)
    
    *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
+
+2. **A Recurrent BERT-based Model for Question Generation.** MRQA Workshop, 2019. [paper](https://www.aclweb.org/anthology/D19-5821.pdf)
+
+   *Ying-Hong Chan, Yao-Chung Fan*
 
 3. **Putting the Horse Before the Cart:A Generator-Evaluator Framework for Question Generation from Text** CoNLL, 2019. [paper](https://arxiv.org/pdf/1808.04961.pdf)
    
