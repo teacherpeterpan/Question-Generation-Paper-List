@@ -83,6 +83,18 @@ Please follow [this link](./README.md) to view papers by topics.
     
     *Md Arafat Sultan, Shubham Chandel, Ramón Fernandez Astudillo, Vittorio Castelli*
 
+2. **Interactive Classification by Asking Informative Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/1911.03598.pdf)
+   
+   *Lili Yu, Howard Chen, Sida Wang, Tao Lei, Yoav Artzi*
+
+2. **Towards Question-based Recommender Systems.** SIGIR, 2020. [paper](https://arxiv.org/pdf/2005.14255.pdf)
+   
+   *Jie Zou, Yifan Chen, Evangelos Kanoulas*
+
+2. **Generating Clarifying Questions for Information Retrieval.** WWW, 2020. [paper](http://hamedz.ir/assets/pub/zamani-www2020.pdf)
+   
+   *Hamed Zamani, Susan T. Dumais, Nick Craswell, Paul N. Bennett, and Gord Lueck*
+
 14. **QURIOUS: Question Generation Pretraining for Text Generation.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.11026.pdf)
     
     *Shashi Narayan, Gonçalo Simoes, Ji Ma, Hannah Craighead, Ryan Mcdonald*
@@ -261,6 +273,10 @@ Please follow [this link](./README.md) to view papers by topics.
    
    *Chris Alberti, Daniel Andor, Emily Pitler, Jacob Devlin, Michael Collins*
 
+2. **Asking Clarifying Questions in Open-Domain Information-Seeking Conversations.** SIGIR, 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3331184.3331265) [dataset](https://github.com/aliannejadi/qulac)
+   
+   *Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani, W. Bruce Croft*
+
 7. **Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1247.pdf)
    
    *Cao Liu, Kang Liu, Shizhu He, Zaiqing Nie, Jun Zhao*
@@ -331,6 +347,10 @@ Please follow [this link](./README.md) to view papers by topics.
 2. **Leveraging Context Information for Natural Question Generation** ACL, 2018. [paper](https://www.aclweb.org/anthology/N18-2090) [code](https://github.com/freesunshine0316/MPQG)
    
    *Linfeng Song, Zhiguo Wang, Wael Hamza, Yue Zhang, Daniel Gildea*
+
+2. **Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information.** ACL, 2018. [paper](https://arxiv.org/pdf/1805.04655.pdf) [code](https://github.com/raosudha89/ranking_clarification_questions)
+   
+   *Sudha Rao, Hal Daumé III*
 
 3. **Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks.** EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1424.pdf)
    

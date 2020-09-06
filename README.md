@@ -46,6 +46,9 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
     <td>&emsp;<a href="#distractor-generation">2.7 Distractor Generation</a></td>
     <td>&ensp;<a href="#cross-lingual-QG">2.8 Cross-lingual QG</a></td>
 </tr>
+<tr>
+    <td>&emsp;<a href="#clarification-question-generation">2.9 Clarification Question Generation</a></td>
+</tr>
 <tr><td colspan="2"><a href="#evaluation">3. Evaluation</a></td></tr>
 <tr><td colspan="2"><a href="#resources">4. Resources</a></td></tr>
 </table>
@@ -335,11 +338,7 @@ Learning to generate a series of coherent questions grounded in a question answe
 
 ### [Asking Deep Questions](#asking-deep-questions)
 
-This direction focuses on exploring how to ask deep questions that require high cognitive levels, such as multi-hop reasoning questions, mathematical questions, open-ended questions, non-factoid questions, and clarification questions. 
-
-1. **Are You Asking the Right Questions? Teaching Machines to Ask Clarification Questions.** ACL Workshop, 2017. [paper](https://www.aclweb.org/anthology/P17-3006.pdf)
-   
-   *Sudha Rao*
+This direction focuses on exploring how to ask deep questions that require high cognitive levels, such as multi-hop reasoning questions, mathematical questions, open-ended questions, and non-factoid questions. 
 
 2. **Automatic Opinion Question Generation.** ICNLG, 2018. [paper](https://www.aclweb.org/anthology/W18-6518.pdf)
    
@@ -348,14 +347,6 @@ This direction focuses on exploring how to ask deep questions that require high 
 3. **A Multi-language Platform for Generating Algebraic Mathematical Word Problems.** arxiv, 2019. [paper](https://arxiv.org/pdf/1912.01110.pdf)
    
    *Vijini Liyanage, Surangika Ranathunga*
-
-4. **Interpretation of Natural Language Rules in Conversational Machine Reading.** EMNLP, 2018. [paper](https://arxiv.org/pdf/1809.01494.pdf) [dataset](https://sharc-data.github.io/)
-   
-   *Marzieh Saeidi, Max Bartolo, Patrick Lewis, Sameer Singh, Tim Rocktäschel, Mike Sheldon, Guillaume Bouchard, Sebastian Riedel*
-
-5. **Answer-based Adversarial Training for Generating Clarification Questions.** NAACL, 2019. [paper](https://arxiv.org/pdf/1904.02281.pdf) [code](https://github.com/raosudha89/clarification_question_generation_pytorch)
-   
-   *Rao S, Daumé III H.*
 
 6. **Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums.** ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1497.pdf)
    
@@ -563,6 +554,45 @@ Building cross-lingual models to generate questions in low-resource languages.
 
    *Zewen Chi, Li Dong, Furu Wei, Wenhui Wang, Xian-Ling Mao, Heyan Huang*
 
+### [Clarification Question Generation](#clarification-question-generation)
+
+Learning to ask clarification questions to better understand user intents in conversation, recommendation system, or search engine. 
+
+1. **Are You Asking the Right Questions? Teaching Machines to Ask Clarification Questions.** ACL Workshop, 2017. [paper](https://www.aclweb.org/anthology/P17-3006.pdf)
+   
+   *Sudha Rao*
+
+2. **Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information.** ACL, 2018. [paper](https://arxiv.org/pdf/1805.04655.pdf) [code](https://github.com/raosudha89/ranking_clarification_questions)
+   
+   *Sudha Rao, Hal Daumé III*
+
+1. **Interpretation of Natural Language Rules in Conversational Machine Reading.** EMNLP, 2018. [paper](https://arxiv.org/pdf/1809.01494.pdf) [dataset](https://sharc-data.github.io/)
+   
+   *Marzieh Saeidi, Max Bartolo, Patrick Lewis, Sameer Singh, Tim Rocktäschel, Mike Sheldon, Guillaume Bouchard, Sebastian Riedel*
+
+1. **Answer-based Adversarial Training for Generating Clarification Questions.** NAACL, 2019. [paper](https://arxiv.org/pdf/1904.02281.pdf) [code](https://github.com/raosudha89/clarification_question_generation_pytorch)
+   
+   *Rao S, Daumé III H.*
+
+2. **Asking Clarifying Questions in Open-Domain Information-Seeking Conversations.** SIGIR, 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3331184.3331265) [dataset](https://github.com/aliannejadi/qulac)
+   
+   *Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani, W. Bruce Croft*
+
+1. **ClarQ: A large-scale and diverse dataset for Clarification Question Generation.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.651.pdf) [dataset](https://github.com/vaibhav4595/ClarQ)
+   
+   *Vaibhav Kumar, Alan W. black.*
+
+2. **Interactive Classification by Asking Informative Questions.** ACL, 2020. [paper](https://arxiv.org/pdf/1911.03598.pdf)
+   
+   *Lili Yu, Howard Chen, Sida Wang, Tao Lei, Yoav Artzi*
+
+2. **Towards Question-based Recommender Systems.** SIGIR, 2020. [paper](https://arxiv.org/pdf/2005.14255.pdf)
+   
+   *Jie Zou, Yifan Chen, Evangelos Kanoulas*
+
+2. **Generating Clarifying Questions for Information Retrieval.** WWW, 2020. [paper](http://hamedz.ir/assets/pub/zamani-www2020.pdf)
+   
+   *Hamed Zamani, Susan T. Dumais, Nick Craswell, Paul N. Bennett, and Gord Lueck*
 
 ## [Evaluation](#evaluation)
 
