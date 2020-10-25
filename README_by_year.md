@@ -95,6 +95,26 @@ Please follow [this link](./README.md) to view papers by topics.
    
    *Hamed Zamani, Susan T. Dumais, Nick Craswell, Paul N. Bennett, and Gord Lueck*
 
+6. **PathQG: Neural Question Generation from Facts** EMNLP, 2020. [paper](http://www.sdspeople.fudan.edu.cn/zywei/paper/2020/wangsy-emnlp-2020.pdf) [code](https://github.com/WangsyGit/PathQG)
+   
+   *Siyuan Wang, Zhongyu Wei, Zhihao Fan, Zengfeng Huang, Weijian Sun, Qi Zhang, Xuanjing Huang*
+
+12. **Inquisitive Question Generation for High Level Text Comprehension.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2010.01657.pdf) [dataset](https://github.com/wjko2/INQUISITIVE)
+    
+    *Wei-Jen Ko, Te-Yuan Chen, Yiyan Huang, Greg Durrett, Junyi Jessy Li*
+
+9. **End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2010.06028.pdf)
+   
+   *Siamak Shakeri, Cicero Nogueira dos Santos, Henry Zhu, Patrick Ng, Feng Nan, Zhiguo Wang, Ramesh Nallapati, Bing Xiang*
+
+9. **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2010.01475.pdf)
+   
+   *Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan, Ming Zhou*
+
+9. **Training Question Answering Models From Synthetic Data.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2002.09599.pdf)
+   
+   *Raul Puri, Ryan Spring, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro*
+
 14. **QURIOUS: Question Generation Pretraining for Text Generation.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.11026.pdf)
     
     *Shashi Narayan, Gonçalo Simoes, Ji Ma, Hannah Craighead, Ryan Mcdonald*

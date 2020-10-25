@@ -232,6 +232,10 @@ Improve QG by incorporating wider contexts in the input passage.
    
    *Xin Jia, Wenjie Zhou, Xu SUN, Yunfang Wu*
 
+6. **PathQG: Neural Question Generation from Facts** EMNLP, 2020. [paper](http://www.sdspeople.fudan.edu.cn/zywei/paper/2020/wangsy-emnlp-2020.pdf) [code](https://github.com/WangsyGit/PathQG)
+   
+   *Siyuan Wang, Zhongyu Wei, Zhihao Fan, Zengfeng Huang, Weijian Sun, Qi Zhang, Xuanjing Huang*
+
 ### [QG with pretraining](#qg-with-pretraining)
 
 Improve QG ultilizing NLP pretraining models. 
@@ -380,6 +384,10 @@ This direction focuses on exploring how to ask deep questions that require high 
     
     *Qian Yu, Lidong Bing, Qiong Zhang, Wai Lam, Luo Si*
 
+12. **Inquisitive Question Generation for High Level Text Comprehension.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2010.01657.pdf) [dataset](https://github.com/wjko2/INQUISITIVE)
+    
+    *Wei-Jen Ko, Te-Yuan Chen, Yiyan Huang, Greg Durrett, Junyi Jessy Li*
+
 
 ### [Combining QA and QG](#Combining-QA-and-QG)
 
@@ -428,6 +436,18 @@ This direction investigate how to combine the task of QA and QG by multi-task le
 9. **On the Importance of Diversity in Question Generation for QA.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.500.pdf)
    
    *Md Arafat Sultan, Shubham Chandel, Ramón Fernandez Astudillo, Vittorio Castelli*
+
+9. **End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2010.06028.pdf)
+   
+   *Siamak Shakeri, Cicero Nogueira dos Santos, Henry Zhu, Patrick Ng, Feng Nan, Zhiguo Wang, Ramesh Nallapati, Bing Xiang*
+
+9. **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2010.01475.pdf)
+   
+   *Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan, Ming Zhou*
+
+9. **Training Question Answering Models From Synthetic Data.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2002.09599.pdf)
+   
+   *Raul Puri, Ryan Spring, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro*
 
 ### [QG from knowledge graphs](#QG-from-knowledge-graphs)
 
@@ -633,6 +653,10 @@ QG-specific datasets and toolkits.
 3. [Toolkit] **Question Generation using transformers** . [github link](https://github.com/patil-suraj/question_generation)
    
    *Suraj Patil*
+
+12. **Inquisitive Question Generation for High Level Text Comprehension.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2010.01657.pdf) [dataset](https://github.com/wjko2/INQUISITIVE)
+    
+    *Wei-Jen Ko, Te-Yuan Chen, Yiyan Huang, Greg Durrett, Junyi Jessy Li*
 
 
 
