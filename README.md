@@ -140,7 +140,7 @@ Improving the training via combining supervised and reinforcement learning to ma
    
    *Shiyue Zhang, Mohit Bansal*
 
-5. **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation** ICLR, 2020. [paper](https://arxiv.org/pdf/1908.04942.pdf)
+5. **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation** ICLR, 2020. [paper](https://arxiv.org/pdf/1908.04942.pdf) [codes](https://github.com/hugochan/RL-based-Graph2Seq-for-NQG)
    
    *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
 
