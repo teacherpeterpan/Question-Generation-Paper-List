@@ -348,7 +348,7 @@ Learning to generate a series of coherent questions grounded in a question answe
 
 This direction focuses on exploring how to ask deep questions that require high cognitive levels, such as multi-hop reasoning questions, mathematical questions, open-ended questions, and non-factoid questions. 
 
-2. **Automatic Opinion Question Generation.** ICNLG, 2018. [paper](https://www.aclweb.org/anthology/W18-6518.pdf)
+1. **Automatic Opinion Question Generation.** ICNLG, 2018. [paper](https://www.aclweb.org/anthology/W18-6518.pdf)
    
    *Yllias Chali, Tina Baghaee* 
 
