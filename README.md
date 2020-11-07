@@ -54,7 +54,7 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 </table>
 
 ## [Survey papers](#content)
-1. **Recent Advances in Neural Question Generation.** arxiv, 2018. [paper](https://arxiv.org/pdf/1905.08949.pdf)
+1. **Recent Advances in Neural Question Generation.** arxiv, 2019. [paper](https://arxiv.org/pdf/1905.08949.pdf)
     
     *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan* 
 
@@ -143,6 +143,10 @@ Improving the training via combining supervised and reinforcement learning to ma
 5. **Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation** ICLR, 2020. [paper](https://arxiv.org/pdf/1908.04942.pdf)
    
    *Yu Chen, Lingfei Wu, Mohammed J. Zaki*
+
+12. **Exploring Question-Specific Rewards for Generating Deep Questions.** COLING, 2020. [paper](https://arxiv.org/pdf/2011.01102.pdf) [codes](https://github.com/YuxiXie/RL-for-Question-Generation)
+    
+    *Yuxi Xie, Liangming Pan, Dongzhe Wang, Min-Yen Kan, Yansong Feng*
 
 ### [Content Selection](#content-selection)
 
@@ -388,6 +392,25 @@ This direction focuses on exploring how to ask deep questions that require high 
     
     *Wei-Jen Ko, Te-Yuan Chen, Yiyan Huang, Greg Durrett, Junyi Jessy Li*
 
+12. **Stronger Transformers for Neural Multi-Hop Question Generation.** ArXiv, 2020. [paper](https://arxiv.org/pdf/2010.11374.pdf)
+    
+    *Devendra Singh Sachan, Lingfei Wu, Mrinmaya Sachan, William Hamilton*
+
+12. **Mathematical Word Problem Generation from Commonsense Knowledge Graph and Equations.** ArXiv, 2020. [paper](https://arxiv.org/pdf/2010.06196.pdf)
+    
+    *Tianqiao Liu, Qian Fang, Wenbiao Ding, Zhongqin Wu, Zitao Liu*
+
+12. **Reinforced Multi-task Approach for Multi-hop Question Generation.** COLING, 2020. [paper](https://arxiv.org/pdf/2004.02143.pdf)
+    
+    *Deepak Gupta, Hardik Chauhan, Akella Ravi Tej, Asif Ekbal, Pushpak Bhattacharyya*
+
+12. **Exploring Question-Specific Rewards for Generating Deep Questions.** COLING, 2020. [paper](https://arxiv.org/pdf/2011.01102.pdf) [codes](https://github.com/YuxiXie/RL-for-Question-Generation)
+    
+    *Yuxi Xie, Liangming Pan, Dongzhe Wang, Min-Yen Kan, Yansong Feng*
+
+12. **Ask to Learn: A Study on Curiosity-driven Question Generation.** COLING, 2020. [paper](https://arxiv.org/pdf/1911.03350.pdf) [codes](https://github.com/YuxiXie/RL-for-Question-Generation)
+    
+    *Thomas Scialom, Jacopo Staiano*
 
 ### [Combining QA and QG](#Combining-QA-and-QG)
 
@@ -496,6 +519,10 @@ This direction is about generating questions from a knowledge graph.
 11.  **Generating Semantically Valid Adversarial Questions for TableQA.** arXiv, 2020. [paper](https://arxiv.org/pdf/2005.12696.pdf)
 
       *Yi Zhu, Menglin Xia, Yiwei Zhou*
+
+12. **Knowledge-enriched, Type-constrained and Grammar-guided Question Generation over Knowledge Bases.** COLING, 2020. [paper](https://arxiv.org/pdf/2010.03157.pdf)
+    
+    *Sheng Bi, Xiya Cheng, Yuan-Fang Li, Yongzhen Wang, Guilin Qi*
 
 
 ### [Visual Question Generation](#visual-question-generation)

@@ -75,7 +75,7 @@ Please follow [this link](./README.md) to view papers by topics.
     
     *Qian Yu, Lidong Bing, Qiong Zhang, Wai Lam, Luo Si*
 
-12. **ClarQ: A large-scale and diverse dataset for Clarification Question Generation.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.651.pdf) [dataset](https://github.com/vaibhav4595/ClarQ
+12. **ClarQ: A large-scale and diverse dataset for Clarification Question Generation.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.651.pdf) [dataset](https://github.com/vaibhav4595/ClarQ)
     
     *Vaibhav Kumar, Alan W. black.*
 
@@ -138,6 +138,30 @@ Please follow [this link](./README.md) to view papers by topics.
 5. **UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training.** arXiv, 2020. [paper](https://arxiv.org/pdf/2002.12804.pdf) [code](https://github.com/microsoft/unilm/tree/master/unilm)
    
    *Hangbo Bao, Li Dong, Furu Wei, Wenhui Wang, Nan Yang, Xiaodong Liu, Yu Wang, Songhao Piao, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon*
+
+12. **Stronger Transformers for Neural Multi-Hop Question Generation.** ArXiv, 2020. [paper](https://arxiv.org/pdf/2010.11374.pdf)
+    
+    *Devendra Singh Sachan, Lingfei Wu, Mrinmaya Sachan, William Hamilton*
+
+12. **Mathematical Word Problem Generation from Commonsense Knowledge Graph and Equations.** ArXiv, 2020. [paper](https://arxiv.org/pdf/2010.06196.pdf)
+    
+    *Tianqiao Liu, Qian Fang, Wenbiao Ding, Zhongqin Wu, Zitao Liu*
+
+12. **Reinforced Multi-task Approach for Multi-hop Question Generation.** COLING, 2020. [paper](https://arxiv.org/pdf/2004.02143.pdf)
+    
+    *Deepak Gupta, Hardik Chauhan, Akella Ravi Tej, Asif Ekbal, Pushpak Bhattacharyya*
+
+12. **Exploring Question-Specific Rewards for Generating Deep Questions.** COLING, 2020. [paper](https://arxiv.org/pdf/2011.01102.pdf) [codes](https://github.com/YuxiXie/RL-for-Question-Generation)
+    
+    *Yuxi Xie, Liangming Pan, Dongzhe Wang, Min-Yen Kan, Yansong Feng*
+
+12. **Ask to Learn: A Study on Curiosity-driven Question Generation.** COLING, 2020. [paper](https://arxiv.org/pdf/1911.03350.pdf) [codes](https://github.com/YuxiXie/RL-for-Question-Generation)
+    
+    *Thomas Scialom, Jacopo Staiano*
+
+12. **Knowledge-enriched, Type-constrained and Grammar-guided Question Generation over Knowledge Bases.** COLING, 2020. [paper](https://arxiv.org/pdf/2010.03157.pdf)
+    
+    *Sheng Bi, Xiya Cheng, Yuan-Fang Li, Yongzhen Wang, Guilin Qi*
 
 ## [2019](#2019)
 
