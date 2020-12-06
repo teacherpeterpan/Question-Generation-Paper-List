@@ -96,7 +96,7 @@ Applying various techniques to encode the answer information thus allowing for b
    
    *Xiyao Ma, Qile Zhu, Yanlin Zhou, Xiaolin Li, Dapeng Wu*
 
-4. **Answer-driven Deep Question Generation based on Reinforcement Learning** COLING, 2020. [paper](https://www.aclweb.org/anthology/2020.coling-main.452/)
+4. **Answer-driven Deep Question Generation based on Reinforcement Learning.** COLING, 2020. [paper](https://www.aclweb.org/anthology/2020.coling-main.452/)
 
    *Liuyin Wang, Zihan Xu, Zibo Lin, Hai-Tao Zheng, Ying Shen*
 
@@ -152,9 +152,9 @@ Improving the training via combining supervised and reinforcement learning to ma
     
     *Yuxi Xie, Liangming Pan, Dongzhe Wang, Min-Yen Kan, Yansong Feng*
 
-13. **Answer-driven Deep Question Generation based on Reinforcement Learning** COLING, 2020. [paper](https://www.aclweb.org/anthology/2020.coling-main.452/)
+13. **Answer-driven Deep Question Generation based on Reinforcement Learning.** COLING, 2020. [paper](https://www.aclweb.org/anthology/2020.coling-main.452/)
 
-   *Liuyin Wang, Zihan Xu, Zibo Lin, Hai-Tao Zheng, Ying Shen*
+    *Liuyin Wang, Zihan Xu, Zibo Lin, Hai-Tao Zheng, Ying Shen*
 
 ### [Content Selection](#content-selection)
 

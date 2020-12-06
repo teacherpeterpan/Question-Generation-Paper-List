@@ -163,6 +163,10 @@ Please follow [this link](./README.md) to view papers by topics.
     
     *Sheng Bi, Xiya Cheng, Yuan-Fang Li, Yongzhen Wang, Guilin Qi*
 
+4. **Answer-driven Deep Question Generation based on Reinforcement Learning.** COLING, 2020. [paper](https://www.aclweb.org/anthology/2020.coling-main.452/)
+
+   *Liuyin Wang, Zihan Xu, Zibo Lin, Hai-Tao Zheng, Ying Shen*
+
 ## [2019](#2019)
 
 1. **Improving Neural Question Generation Using Answer Separation.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf) [code](https://github.com/yanghoonkim/NQG_ASs2s)
