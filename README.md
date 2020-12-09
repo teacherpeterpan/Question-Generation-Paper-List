@@ -633,6 +633,12 @@ Learning to ask clarification questions to better understand user intents in con
    
    *Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani, W. Bruce Croft*
 
+
+2. **Asking Clarification Questions in Knowledge-Based Question Answering.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1172.pdf) [dataset](https://github.com/msra-nlc/MSParS_V2.0)
+   
+   *Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, Qi Zeng, Ming Zhou, Xu Sun*
+
+
 1. **ClarQ: A large-scale and diverse dataset for Clarification Question Generation.** ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.651.pdf) [dataset](https://github.com/vaibhav4595/ClarQ)
    
    *Vaibhav Kumar, Alan W. black.*

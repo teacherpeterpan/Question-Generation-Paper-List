@@ -233,6 +233,10 @@ Please follow [this link](./README.md) to view papers by topics.
    
    *Wenjie Zhou, Minghua Zhang, Yunfang Wu*
 
+2. **Asking Clarification Questions in Knowledge-Based Question Answering.** EMNLP, 2019. [paper](https://www.aclweb.org/anthology/D19-1172.pdf) [dataset](https://github.com/msra-nlc/MSParS_V2.0)
+   
+   *Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, Qi Zeng, Ming Zhou, Xu Sun*
+
 1. **Generating Question-Answer Hierarchies.** ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
    
    *Kalpesh Krishna and Mohit Iyyer.*
