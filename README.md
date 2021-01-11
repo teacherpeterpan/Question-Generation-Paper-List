@@ -420,6 +420,11 @@ This direction focuses on exploring how to ask deep questions that require high 
     
     *Thomas Scialom, Jacopo Staiano*
 
+12. **EQG-RACE: Examination-Type Question Generation.** AAAI, 2021. [paper](https://arxiv.org/pdf/2012.06106.pdf)
+    
+    *Xin Jia, Wenjie Zhou, Xu Sun, Yunfang Wu*
+
+
 ### [Combining QA and QG](#Combining-QA-and-QG)
 
 This direction investigate how to combine the task of QA and QG by multi-task learning or joint training. 
@@ -596,6 +601,10 @@ Learning to generate distractors for multi-choice questions.
 3. **Generating Distractors for Reading Comprehension Questions from Real Examinations.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02768.pdf)
 
    *Yifan Gao, Lidong Bing, Piji Li, Irwin King, Michael R. Lyu*
+
+4. **Knowledge-Driven Distractor Generation for Cloze-style Multiple Choice Questions.** AAAI, 2021. [paper](https://arxiv.org/pdf/2004.09853.pdf)
+    
+    *Siyu Ren, Kenny Q. Zhu*
 
 ### [Cross-lingual QG](#cross-lingual-QG)
 

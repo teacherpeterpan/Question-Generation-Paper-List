@@ -5,6 +5,16 @@ A summary of must-read papers for Neural Question Generation (NQG)
 
 Please follow [this link](./README.md) to view papers by topics. 
 
+## [2021](#2021)
+
+1. **EQG-RACE: Examination-Type Question Generation.** AAAI, 2021. [paper](https://arxiv.org/pdf/2012.06106.pdf)
+    
+    *Xin Jia, Wenjie Zhou, Xu Sun, Yunfang Wu*
+
+2. **Knowledge-Driven Distractor Generation for Cloze-style Multiple Choice Questions.** AAAI, 2021. [paper](https://arxiv.org/pdf/2004.09853.pdf)
+    
+    *Siyu Ren, Kenny Q. Zhu*
+
 ## [2020](#2020)
 
 1. **Cross-Lingual Natural Language Generation via Pre-Training.** AAAI, 2020. [paper](https://arxiv.org/pdf/1909.10481.pdf)
