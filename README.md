@@ -248,6 +248,10 @@ Improve QG by incorporating wider contexts in the input passage.
    
    *Siyuan Wang, Zhongyu Wei, Zhihao Fan, Zengfeng Huang, Weijian Sun, Qi Zhang, Xuanjing Huang*
 
+7. **AnswerQuest: A System for Generating Question-Answer Items from Multi-Paragraph Documents.** EACL Demo, 2021. [paper](https://arxiv.org/pdf/2103.03820.pdf) [codes](https://github.com/roemmele/answerquest)
+    
+    *Melissa Roemmele, Deep Sidhpura, Steve DeNeefe, Ling Tsou*
+
 ### [QG with pretraining](#qg-with-pretraining)
 
 Improve QG ultilizing NLP pretraining models. 
@@ -348,9 +352,13 @@ Learning to generate a series of coherent questions grounded in a question answe
    
    *Zi Chai, Xiaojun Wan*
 
-8. **Stay Hungry, Stay Focused: Generating Informative and Specific Questions in Information-Seeking Conversations.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.14530.pdf)
+8. **Stay Hungry, Stay Focused: Generating Informative and Specific Questions in Information-Seeking Conversations.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2004.14530.pdf) [codes](https://github.com/qipeng/stay-hungry-stay-focused)
    
    *Peng Qi, Yuhao Zhang, Christopher D. Manning*
+
+7. **ChainCQG: Flow-Aware Conversational Question Generation.** EACL, 2021. [paper](https://arxiv.org/pdf/2102.02864.pdf) [codes](https://github.com/searchableai/ChainCQG)
+    
+    *Jing Gu, Mostafa Mirshekari, Zhou Yu, Aaron Sisto*
 
 ### [Asking Deep Questions](#asking-deep-questions)
 
@@ -424,6 +432,14 @@ This direction focuses on exploring how to ask deep questions that require high 
     
     *Xin Jia, Wenjie Zhou, Xu Sun, Yunfang Wu*
 
+12. **CliniQG4QA: Generating Diverse Questions for Domain Adaptation of Clinical Question Answering.** NeurIPS Workshop, 2021. [paper](https://arxiv.org/pdf/2010.16021.pdf) [codes](https://github.com/sunlab-osu/CliniQG4QA)
+    
+    *Xiang Yue, Xinliang Frederick Zhang, Ziyu Yao, Simon Lin, Huan Sun*
+
+7. **Quiz-Style Question Generation for News Stories.** WWW, 2021. [paper](https://arxiv.org/pdf/2102.09094.pdf) [codes](https://github.com/google-research-datasets/NewsQuizQA)
+    
+    *Adam D. Lelkes, Vinh Q. Tran, Cong Yu*
+
 
 ### [Combining QA and QG](#Combining-QA-and-QG)
 
@@ -484,6 +500,10 @@ This direction investigate how to combine the task of QA and QG by multi-task le
 9. **Training Question Answering Models From Synthetic Data.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2002.09599.pdf)
    
    *Raul Puri, Ryan Spring, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro*
+
+7. **Unsupervised Multi-hop Question Answering by Question Generation.** NAACL, 2021. [paper](https://arxiv.org/pdf/2010.12623.pdf)
+    
+    *Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan, William Yang Wang*
 
 ### [QG from knowledge graphs](#QG-from-knowledge-graphs)
 
@@ -707,6 +727,10 @@ QG-specific datasets and toolkits.
 12. **Inquisitive Question Generation for High Level Text Comprehension.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2010.01657.pdf) [dataset](https://github.com/wjko2/INQUISITIVE)
     
     *Wei-Jen Ko, Te-Yuan Chen, Yiyan Huang, Greg Durrett, Junyi Jessy Li*
+
+7. **Quiz-Style Question Generation for News Stories.** WWW, 2021. [paper](https://arxiv.org/pdf/2102.09094.pdf) [codes](https://github.com/google-research-datasets/NewsQuizQA)
+    
+    *Adam D. Lelkes, Vinh Q. Tran, Cong Yu*
 
 
 

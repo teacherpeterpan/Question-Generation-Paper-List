@@ -15,6 +15,26 @@ Please follow [this link](./README.md) to view papers by topics.
     
     *Siyu Ren, Kenny Q. Zhu*
 
+12. **CliniQG4QA: Generating Diverse Questions for Domain Adaptation of Clinical Question Answering.** NeurIPS Workshop, 2021. [paper](https://arxiv.org/pdf/2010.16021.pdf) [codes](https://github.com/sunlab-osu/CliniQG4QA)
+    
+    *Xiang Yue, Xinliang Frederick Zhang, Ziyu Yao, Simon Lin, Huan Sun*
+
+7. **AnswerQuest: A System for Generating Question-Answer Items from Multi-Paragraph Documents.** EACL Demo, 2021. [paper](https://arxiv.org/pdf/2103.03820.pdf) [codes](https://github.com/roemmele/answerquest)
+    
+    *Melissa Roemmele, Deep Sidhpura, Steve DeNeefe, Ling Tsou*
+
+7. **ChainCQG: Flow-Aware Conversational Question Generation.** EACL, 2021. [paper](https://arxiv.org/pdf/2102.02864.pdf) [codes](https://github.com/searchableai/ChainCQG)
+    
+    *Jing Gu, Mostafa Mirshekari, Zhou Yu, Aaron Sisto*
+
+7. **Quiz-Style Question Generation for News Stories.** WWW, 2021. [paper](https://arxiv.org/pdf/2102.09094.pdf) [codes](https://github.com/google-research-datasets/NewsQuizQA)
+    
+    *Adam D. Lelkes, Vinh Q. Tran, Cong Yu*
+
+7. **Unsupervised Multi-hop Question Answering by Question Generation.** NAACL, 2021. [paper](https://arxiv.org/pdf/2010.12623.pdf)
+    
+    *Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan, William Yang Wang*
+
 ## [2020](#2020)
 
 1. **Cross-Lingual Natural Language Generation via Pre-Training.** AAAI, 2020. [paper](https://arxiv.org/pdf/1909.10481.pdf)
@@ -129,9 +149,9 @@ Please follow [this link](./README.md) to view papers by topics.
     
     *Shashi Narayan, Gonçalo Simoes, Ji Ma, Hannah Craighead, Ryan Mcdonald*
 
-15. **Stay Hungry, Stay Focused: Generating Informative and Specific Questions in Information-Seeking Conversations.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.14530.pdf)
-    
-    *Peng Qi, Yuhao Zhang, Christopher D. Manning*
+8. **Stay Hungry, Stay Focused: Generating Informative and Specific Questions in Information-Seeking Conversations.** EMNLP, 2020. [paper](https://arxiv.org/pdf/2004.14530.pdf) [codes](https://github.com/qipeng/stay-hungry-stay-focused)
+   
+   *Peng Qi, Yuhao Zhang, Christopher D. Manning*
 
 16.  **Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks.** arXiv, 2020. [paper](https://arxiv.org/pdf/2004.06015.pdf)
 
