@@ -1,7 +1,7 @@
 # Question-Generation-Paper-List
 A summary of must-read papers for Neural Question Generation (NQG)
 
-- Contributed by **[Liangming Pan](http://www.liangmingpan.com)** and **[Yuxi Xie](https://yuxixie.github.io/)**.
+- Contributed by **[Liangming Pan](http://www.liangmingpan.com)**, **[Yuxi Xie](https://yuxixie.github.io/)** and **[Yunxiang Zhang](https://github.com/yunx-z)**
 
 Please follow [this link](./README.md) to view papers by topics. 
 
@@ -34,6 +34,82 @@ Please follow [this link](./README.md) to view papers by topics.
 7. **Unsupervised Multi-hop Question Answering by Question Generation.** NAACL, 2021. [paper](https://arxiv.org/pdf/2010.12623.pdf)
     
     *Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan, William Yang Wang*
+
+7. **OneStop QAMaker: Extract Question-Answer Pairs from Text in a One-Stop Approach.** arXiv, 2021. [paper](https://arxiv.org/pdf/2102.12128)
+    
+    *Shaobo Cui, Xintong Bao, Xinxing Zu, Yangyang Guo, Zhongzhou Zhao, Ji Zhang, Haiqing Chen*
+
+7. **Diverse and Specific Clarification Question Generation with Keywords.** WWW, 2021. [paper](https://arxiv.org/pdf/2104.10317) [codes](https://github.com/blmoistawinde/KPCNet)
+    
+    *Zhiling Zhang, Kenny Q. Zhu*
+
+7. **Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing.** arXiv, 2021. [paper](https://arxiv.org/pdf/2103.02227)
+    
+    *Ao Zhang, Kun Wu, Lijie Wang, Zhenghua Li, Xinyan Xiao, Hua Wu, Min Zhang, Haifeng Wang*
+
+7. **Learning to Ask Appropriate Questions in Conversational Recommendation.** SIGIR, 2021. [paper](https://arxiv.org/pdf/2105.04774) [codes](https://github.com/XuhuiRen/KBQG)
+    
+    *Xuhui Ren, Hongzhi Yin, Tong Chen, Hao Wang, Zi Huang, Kai Zheng*
+
+7. **ASQ: Automatically Generating Question-Answer Pairs using AMRs.** arXiv, 2021. [paper](https://arxiv.org/pdf/2105.10023)
+    
+    *Geetanjali Rakshit, Jeffrey Flanigan*
+
+7. **Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting.** ACL, 2021. [paper](https://arxiv.org/pdf/2105.11698) [codes](https://tinyurl.com/19esunzz)
+    
+    *Yi Cheng, Siyao Li, Bang Liu, Ruihui Zhao, Sujian Li, Chenghua Lin, Yefeng Zheng*
+
+7. **Data-QuestEval: A Referenceless Metric for Data to Text Semantic Evaluation.** arXiv, 2021. [paper](https://arxiv.org/pdf/2104.07555)
+    
+    *Clément Rebuffel, Thomas Scialom, Laure Soulier, Benjamin Piwowarski, Sylvain Lamprier, Jacopo Staiano, Geoffrey Scoutheeten, Patrick Gallinari*
+
+7. **Zero-shot Fact Verification by Claim Generation.** ACL, 2021. [paper](https://arxiv.org/pdf/2105.14682) [codes](https://github.com/teacherpeterpan/Zero-shot-Fact-Verification)
+    
+    *Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan, William Yang Wang*
+
+7. **Q2: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering.** arXiv, 2021. [paper](https://arxiv.org/pdf/2104.08202)
+    
+    *Or Honovich, Leshem Choshen, Roee Aharoni, Ella Neeman, Idan Szpektor, Omri Abend*
+
+7. **Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation.** arXiv, 2021. [paper](https://arxiv.org/pdf/2104.08678)
+    
+    *Max Bartolo, Tristan Thrush, Robin Jia, Sebastian Riedel, Pontus Stenetorp, Douwe Kiela*
+
+7. **Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval.** arXiv, 2021. [paper](https://arxiv.org/pdf/2104.08801)
+    
+    *Devang Kulshreshtha, Robert Belfer, Iulian Vlad Serban, Siva Reddy*
+
+7. **Cooperative Learning of Zero-Shot Machine Reading Comprehension.** arXiv, 2021. [paper](https://arxiv.org/pdf/2103.07449)
+    
+    *Hongyin Luo, Shang-Wen Li, Seunghak Yu, James Glass*
+
+7. **Quinductor: a multilingual data-driven method for generating reading-comprehension questions using Universal Dependencies.** arXiv, 2021. [paper](https://arxiv.org/pdf/2103.10121) [codes](https://github.com/dkalpakchi/quinductor)
+    
+    *Dmytro Kalpakchi, Johan Boye*
+
+7. **Ask whats missing and whats useful: Improving Clarification Question Generation using Global Knowledge.** NAACL, 2021. [paper](https://www.aclweb.org/anthology/2021.naacl-main.340.pdf) [codes](https://github.com/microsoft/clarification-qgen-globalinfo)
+    
+    *Bodhisattwa Prasad Majumder, Sudha Rao, Michel Galley, Julian McAuley*
+
+7. **Contrastive Multi-document Question Generation.** EACL, 2021. [paper](https://www.aclweb.org/anthology/2021.eacl-main.2.pdf) [codes](https://github.com/woonsangcho/contrast_qgen)
+    
+    *Woon Sang Cho, Yizhe Zhang, Sudha Rao, Asli Celikyilmaz, Chenyan Xiong, Jianfeng Gao, Mengdi Wang, Bill Dolan*
+
+7. **Expanding, Retrieving and Infilling: Diversifying Cross-Domain Question Generation with Flexible Templates.** EACL, 2021. [paper](https://www.aclweb.org/anthology/2021.eacl-main.279.pdf) [codes](https://github.com/xiaojingyu92/ERIQG)
+    
+    *Xiaojing Yu, Anxiao Jiang*
+
+7. **Automatically Generating Cause-and-Effect Questions from Passages.** EACL Workshop, 2021. [paper](https://www.aclweb.org/anthology/2021.bea-1.17.pdf) [codes](https://github.com/kstats/CausalQG)
+    
+    *Katherine Stasaski, Manav Rathod, Tony Tu, Yunfang Xiao, Marti A. Hearst*
+
+7. **Progressively Pretrained Dense Corpus Index for Open-Domain Question Answering.** EACL, 2021. [paper](https://www.aclweb.org/anthology/2021.eacl-main.244.pdf) [codes](https://github.com/xwhan/ProQA.git)
+    
+    *Wenhan Xiong, Hong Wang, William Yang Wang*
+
+7. **Text Modular Networks: Learning to Decompose Tasks in the Language of Existing Models.** NAACL, 2021. [paper](https://www.aclweb.org/anthology/2021.naacl-main.99.pdf) [codes](https://github.com/allenai/modularqa)
+    
+    *Tushar Khot, Daniel Khashabi, Kyle Richardson, Peter Clark, Ashish Sabharwal*
 
 ## [2020](#2020)
 
@@ -571,3 +647,4 @@ Please follow [this link](./README.md) to view papers by topics.
 1. **Question Asking as Program Generation.** NeurIPS, 2017. [paper](https://arxiv.org/pdf/1711.06351.pdf)
    
    *Anselm Rothe, Brenden M. Lake, Todd M. Gureckis.*
+
