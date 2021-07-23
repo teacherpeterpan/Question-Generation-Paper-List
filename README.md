@@ -344,6 +344,10 @@ Endowing the model with the ability to control the difficulty of the generated q
     
     *Yi Cheng, Siyao Li, Bang Liu, Ruihui Zhao, Sujian Li, Chenghua Lin, Yefeng Zheng*
 
+7. **Question Generation for Adaptive Education.** ACL, 2021. [paper](https://arxiv.org/abs/2106.04262) [codes](https://github.com/meghabyte/acl2021-education)
+    
+    *Megha Srivastava, Noah Goodman*
+
 ### [Conversational QG](#conversational-QG)
 
 Learning to generate a series of coherent questions grounded in a question answering style conversation. 
@@ -391,6 +395,14 @@ Learning to generate a series of coherent questions grounded in a question answe
 7. **ChainCQG: Flow-Aware Conversational Question Generation.** EACL, 2021. [paper](https://arxiv.org/pdf/2102.02864.pdf) [codes](https://github.com/searchableai/ChainCQG)
     
     *Jing Gu, Mostafa Mirshekari, Zhou Yu, Aaron Sisto*
+
+7. **GTM: A Generative Triple-wise Model for Conversational Question Generation.** ACL, 2021. [paper](https://arxiv.org/abs/2106.03635) 
+    
+    *Lei Shen, Fandong Meng, Jinchao Zhang, Yang Feng, Jie Zhou*
+
+7. **Learning to Ask Conversational Questions by Optimizing Levenshtein Distance.** ACL, 2021. [paper](https://arxiv.org/abs/2106.15903) [codes](https://github.com/LZKSKY/CaSE_RISE)
+    
+    *Zhongkun Liu, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Maarten de Rijke, Ming Zhou*
 
 ### [Asking Deep Questions](#asking-deep-questions)
 
@@ -479,6 +491,10 @@ This direction focuses on exploring how to ask deep questions that require high 
 7. **Contrastive Multi-document Question Generation.** EACL, 2021. [paper](https://www.aclweb.org/anthology/2021.eacl-main.2.pdf) [codes](https://github.com/woonsangcho/contrast_qgen)
     
     *Woon Sang Cho, Yizhe Zhang, Sudha Rao, Asli Celikyilmaz, Chenyan Xiong, Jianfeng Gao, Mengdi Wang, Bill Dolan*
+
+7. **Controllable Open-ended Question Generation with A New Question Type Ontology.** ACL, 2021. [paper](https://arxiv.org/abs/2107.00152) [codes](https://shuyangcao.github.io/projects/ontology_open_ended_question)
+    
+    *Shuyang Cao, Lu Wang*
 
 ### [Combining QA and QG](#Combining-QA-and-QG)
 

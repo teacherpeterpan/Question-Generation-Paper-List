@@ -111,6 +111,39 @@ Please follow [this link](./README.md) to view papers by topics.
     
     *Tushar Khot, Daniel Khashabi, Kyle Richardson, Peter Clark, Ashish Sabharwal*
 
+7. **Engage the Public: Poll Question Generation for Social Media Posts.** ACL, 2021.
+    
+    *Zexin Lu, Keyang Ding, Yuji Zhang, Jing Li, Baolin Peng and Lemao Liu*
+
+7. **GTM: A Generative Triple-wise Model for Conversational Question Generation.** ACL, 2021. [paper](https://arxiv.org/abs/2106.03635) 
+    
+    *Lei Shen, Fandong Meng, Jinchao Zhang, Yang Feng, Jie Zhou*
+
+7. **Controllable Open-ended Question Generation with A New Question Type Ontology.** ACL, 2021. [paper](https://arxiv.org/abs/2107.00152) [codes](https://shuyangcao.github.io/projects/ontology_open_ended_question)
+    
+    *Shuyang Cao, Lu Wang*
+
+7. **Question Generation for Adaptive Education.** ACL, 2021. [paper](https://arxiv.org/abs/2106.04262) [codes](https://github.com/meghabyte/acl2021-education)
+    
+    *Megha Srivastava, Noah Goodman*
+
+7. **Learning to Generate Questions by Learning to Recover Answer-containing Sentences.** ACL, 2021.
+    
+    *Seohyun Back, Akhil Kedia, Sai Chetan Chinthakindi, Haejun Lee and Jaegul Choo*
+
+7. **Multi-Lingual Question Generation with Language Agnostic Language Model.** ACL, 2021.
+    
+    *Bingning Wang, Ting Yao, Weipeng Chen, Jingfang Xu and Xiaochuan Wang*
+
+7. **Latent Reasoning for Low-Resource Question Generation.** ACL, 2021.
+    
+    *Xinting Huang, Jianzhong Qi, Yu Sun and Rui Zhang*
+
+7. **Learning to Ask Conversational Questions by Optimizing Levenshtein Distance.** ACL, 2021. [paper](https://arxiv.org/abs/2106.15903) [codes](https://github.com/LZKSKY/CaSE_RISE)
+    
+    *Zhongkun Liu, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Maarten de Rijke, Ming Zhou*
+
+
 ## [2020](#2020)
 
 1. **Cross-Lingual Natural Language Generation via Pre-Training.** AAAI, 2020. [paper](https://arxiv.org/pdf/1909.10481.pdf)
