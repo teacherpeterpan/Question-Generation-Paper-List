@@ -62,6 +62,10 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
     
     *Ghader Kurdi, Jared Leo, Bijan Parsia, Uli Sattler, Salam Al-Emari* 
 
+3. **A Review on Question Generation from Natural Language Text.** ACM Transactions on Information Systems, Volume 40, Issue 1, 2022. [paper](https://dl.acm.org/doi/pdf/10.1145/3468889)
+
+    *Ruqing Zhang, Jiafeng Guo, Lu Chen, Yixing Fan, Xueqi Cheng*
+
 ## [Models](#content)   
 
 ### [Basic Seq2Seq Models](#basic-models)
@@ -128,6 +132,10 @@ Improve QG by incorporating various linguistic features into the QG process.
     
     *Katherine Stasaski, Manav Rathod, Tony Tu, Yunfang Xiao, Marti A. Hearst*
 
+7. **Asking It All: Generating Contextualized Questions for any Semantic Role.** EMNLP, 2021. [paper](https://arxiv.org/pdf/2109.04832) [codes](https://github.com/ValentinaPy/RoleQGeneration)
+
+    *Valentina Pyatkin, Paul Roit, Julian Michael, Yoav Goldberg, Reut Tsarfaty and Ido Dagan*
+
 ### [Question-specific Rewards](#RL-rewards)
 
 Improving the training via combining supervised and reinforcement learning to maximize question-specific rewards
@@ -167,6 +175,10 @@ Improving the training via combining supervised and reinforcement learning to ma
 7. **Contrastive Multi-document Question Generation.** EACL, 2021. [paper](https://www.aclweb.org/anthology/2021.eacl-main.2.pdf) [codes](https://github.com/woonsangcho/contrast_qgen)
     
     *Woon Sang Cho, Yizhe Zhang, Sudha Rao, Asli Celikyilmaz, Chenyan Xiong, Jianfeng Gao, Mengdi Wang, Bill Dolan*
+
+7. **Generating Self-Contained and Summary-Centric Question Answer Pairs via Differentiable Reward Imitation Learning.** EMNLP, 2021. [paper](https://arxiv.org/pdf/2109.04689) [codes](https://github.com/amazon-research/SC2QA-DRIL)
+
+    *Li Zhou, Kevin Small, Yong Zhang and Sandeep Atluri*
 
 ### [Content Selection](#content-selection)
 
@@ -279,6 +291,10 @@ Improve QG by incorporating wider contexts in the input passage.
 10. **Zero-shot Fact Verification by Claim Generation.** ACL, 2021. [paper](https://arxiv.org/pdf/2105.14682) [codes](https://github.com/teacherpeterpan/Zero-shot-Fact-Verification)
     
     *Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan, William Yang Wang*
+
+11. **Iterative GNN-based Decoder for Question Generation.** EMNLP, 2021. [paper](http://qizhang.info/paper/emnlp2021.3921_Paper.pdf)
+
+    *Zichu Fei, Qi Zhang and Yaqian Zhou*
 
 ### [QG with pretraining](#qg-with-pretraining)
 
@@ -564,7 +580,7 @@ This direction investigate how to combine the task of QA and QG by multi-task le
     
     *Clément Rebuffel, Thomas Scialom, Laure Soulier, Benjamin Piwowarski, Sylvain Lamprier, Jacopo Staiano, Geoffrey Scoutheeten, Patrick Gallinari*
 
-7. **Q2: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering** arXiv, 2021. [paper](https://arxiv.org/pdf/2104.08202)
+7. **Q2: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering** EMNLP, 2021. [paper](https://arxiv.org/pdf/2104.08202)
     
     *Or Honovich, Leshem Choshen, Roee Aharoni, Ella Neeman, Idan Szpektor, Omri Abend*
 
@@ -583,6 +599,11 @@ This direction investigate how to combine the task of QA and QG by multi-task le
 7. **Text Modular Networks: Learning to Decompose Tasks in the Language of Existing Models.** NAACL, 2021. [paper](https://www.aclweb.org/anthology/2021.naacl-main.99.pdf) [codes](https://github.com/allenai/modularqa)
     
     *Tushar Khot, Daniel Khashabi, Kyle Richardson, Peter Clark, Ashish Sabharwal*
+
+7. **Improving Unsupervised Question Answering via Summarization-Informed Question Generation.** EMNLP, 2021. [paper](https://arxiv.org/pdf/2109.07954)
+
+    *Chenyang Lyu, Lifeng Shang, Yvette Graham, Jennifer Foster, Xin Jiang, Qun Liu*
+
 
 ### [QG from knowledge graphs](#QG-from-knowledge-graphs)
 
@@ -771,7 +792,7 @@ Learning to ask clarification questions to better understand user intents in con
     
     *Zhiling Zhang, Kenny Q. Zhu*
 
-7. **Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing** arXiv, 2021. [paper](https://arxiv.org/pdf/2103.02227)
+7. **Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing** EMNLP, 2021. [paper](https://arxiv.org/pdf/2103.02227)
     
     *Ao Zhang, Kun Wu, Lijie Wang, Zhenghua Li, Xinyan Xiao, Hua Wu, Min Zhang, Haifeng Wang*
 
@@ -831,7 +852,7 @@ QG-specific datasets and toolkits.
     
     *Adam D. Lelkes, Vinh Q. Tran, Cong Yu*
 
-7. **Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval.** arXiv, 2021. [paper](https://arxiv.org/pdf/2104.08801)
+7. **Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval.** EMNLP, 2021. [paper](https://arxiv.org/pdf/2104.08801)
     
     *Devang Kulshreshtha, Robert Belfer, Iulian Vlad Serban, Siva Reddy*
 

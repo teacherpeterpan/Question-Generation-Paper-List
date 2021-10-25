@@ -43,7 +43,7 @@ Please follow [this link](./README.md) to view papers by topics.
     
     *Zhiling Zhang, Kenny Q. Zhu*
 
-7. **Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing.** arXiv, 2021. [paper](https://arxiv.org/pdf/2103.02227)
+7. **Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing.** EMNLP, 2021. [paper](https://arxiv.org/pdf/2103.02227)
     
     *Ao Zhang, Kun Wu, Lijie Wang, Zhenghua Li, Xinyan Xiao, Hua Wu, Min Zhang, Haifeng Wang*
 
@@ -67,7 +67,7 @@ Please follow [this link](./README.md) to view papers by topics.
     
     *Liangming Pan, Wenhu Chen, Wenhan Xiong, Min-Yen Kan, William Yang Wang*
 
-7. **Q2: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering.** arXiv, 2021. [paper](https://arxiv.org/pdf/2104.08202)
+7. **Q2: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering.** EMNLP, 2021. [paper](https://arxiv.org/pdf/2104.08202)
     
     *Or Honovich, Leshem Choshen, Roee Aharoni, Ella Neeman, Idan Szpektor, Omri Abend*
 
@@ -75,7 +75,7 @@ Please follow [this link](./README.md) to view papers by topics.
     
     *Max Bartolo, Tristan Thrush, Robin Jia, Sebastian Riedel, Pontus Stenetorp, Douwe Kiela*
 
-7. **Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval.** arXiv, 2021. [paper](https://arxiv.org/pdf/2104.08801)
+7. **Back-Training excels Self-Training at Unsupervised Domain Adaptation of Question Generation and Passage Retrieval.** EMNLP, 2021. [paper](https://arxiv.org/pdf/2104.08801)
     
     *Devang Kulshreshtha, Robert Belfer, Iulian Vlad Serban, Siva Reddy*
 
@@ -135,13 +135,38 @@ Please follow [this link](./README.md) to view papers by topics.
     
     *Bingning Wang, Ting Yao, Weipeng Chen, Jingfang Xu and Xiaochuan Wang*
 
-7. **Latent Reasoning for Low-Resource Question Generation.** ACL, 2021.
+7. **Latent Reasoning for Low-Resource Question Generation.** ACL, 2021. [paper](https://aclanthology.org/2021.findings-acl.265.pdf)
     
     *Xinting Huang, Jianzhong Qi, Yu Sun and Rui Zhang*
 
 7. **Learning to Ask Conversational Questions by Optimizing Levenshtein Distance.** ACL, 2021. [paper](https://arxiv.org/abs/2106.15903) [codes](https://github.com/LZKSKY/CaSE_RISE)
     
     *Zhongkun Liu, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Maarten de Rijke, Ming Zhou*
+
+7. **A Review on Question Generation from Natural Language Text.** ACM Transactions on Information Systems, Volume 40, Issue 1, 2022. [paper](https://dl.acm.org/doi/pdf/10.1145/3468889)
+
+    *Ruqing Zhang, Jiafeng Guo, Lu Chen, Yixing Fan, Xueqi Cheng*
+
+7. **Improving Unsupervised Question Answering via Summarization-Informed Question Generation.** EMNLP, 2021. [paper](https://arxiv.org/pdf/2109.07954)
+
+    *Chenyang Lyu, Lifeng Shang, Yvette Graham, Jennifer Foster, Xin Jiang, Qun Liu*
+
+7. **Asking It All: Generating Contextualized Questions for any Semantic Role.** EMNLP, 2021.
+
+    *Valentina Pyatkin, Paul Roit, Julian Michael, Yoav Goldberg, Reut Tsarfaty and Ido Dagan*
+
+7. **Generating Self-Contained and Summary-Centric Question Answer Pairs via Differentiable Reward Imitation Learning.** EMNLP, 2021. [paper](https://arxiv.org/pdf/2109.04689) [codes](https://github.com/amazon-research/SC2QA-DRIL)
+
+    *Li Zhou, Kevin Small, Yong Zhang and Sandeep Atluri*
+
+7. **Asking It All: Generating Contextualized Questions for any Semantic Role.** EMNLP, 2021. [paper](https://arxiv.org/pdf/2109.04832) [codes](https://github.com/ValentinaPy/RoleQGeneration)
+
+    *Valentina Pyatkin, Paul Roit, Julian Michael, Yoav Goldberg, Reut Tsarfaty and Ido Dagan*
+
+11. **Iterative GNN-based Decoder for Question Generation.** EMNLP, 2021. [paper](http://qizhang.info/paper/emnlp2021.3921_Paper.pdf)
+
+    *Zichu Fei, Qi Zhang and Yaqian Zhou*
+
 
 
 ## [2020](#2020)
